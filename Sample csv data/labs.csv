@@ -1,0 +1,751 @@
+lab_id,patient_id,test_name,result,normal_range
+1,1001,Oxygen Saturation,94.0,95-100 %
+2,1001,Respiratory Rate,26.0,12-20 breaths/min
+3,1001,Peak Flow,349.0,400-600 L/min
+4,1002,Peak Flow,624.96,400-600 L/min
+5,1002,Oxygen Saturation,97.0,95-100 %
+6,1002,Respiratory Rate,12.0,12-20 breaths/min
+7,1003,Cholesterol,152.97,125-200 mg/dL
+8,1003,Systolic BP,99.08,90-120 mmHg
+9,1003,Diastolic BP,56.85,60-80 mmHg
+10,1004,HbA1c,7.13,4-5.6 %
+11,1004,BMI,27.26,18.5-24.9
+12,1004,Fasting Glucose,181.93,70-100 mg/dL
+13,1005,Hemoglobin,14.84,12-16 g/dL
+14,1005,Ferritin,295.29,15-150 ng/mL
+15,1005,Platelet Count,244.0,150-450 x10^9/L
+16,1006,Systolic BP,178.71,90-120 mmHg
+17,1006,Diastolic BP,83.67,60-80 mmHg
+18,1006,Cholesterol,186.17,125-200 mg/dL
+19,1007,Troponin I,0.17,0.00-0.04 ng/mL
+20,1007,HDL Cholesterol,27.34,40-60 mg/dL
+21,1007,LDL Cholesterol,111.66,0-100 mg/dL
+22,1008,BMI,24.76,18.5-24.9
+23,1008,Fasting Glucose,111.48,70-100 mg/dL
+24,1008,HbA1c,5.6,4-5.6 %
+25,1009,Creatinine,3.07,0.60-1.30 mg/dL
+26,1009,CRP,10.53,0-5 mg/L
+27,1009,WBC Count,9.95,4-11 x10^9/L
+28,1010,Respiratory Rate,21.0,12-20 breaths/min
+29,1010,Oxygen Saturation,90.0,95-100 %
+30,1010,Peak Flow,347.14,400-600 L/min
+31,1011,WBC Count,15.71,4-11 x10^9/L
+32,1011,Temperature,36.23,36.1-37.2 °C
+33,1011,CRP,43.61,0-5 mg/L
+34,1012,HbA1c,8.54,4-5.6 %
+35,1012,Fasting Glucose,158.45,70-100 mg/dL
+36,1012,BMI,33.6,18.5-24.9
+37,1013,Platelet Count,194.0,150-450 x10^9/L
+38,1013,Hemoglobin,15.66,12-16 g/dL
+39,1013,Ferritin,128.24,15-150 ng/mL
+40,1014,Creatinine,2.74,0.60-1.30 mg/dL
+41,1014,CRP,52.93,0-5 mg/L
+42,1014,WBC Count,16.72,4-11 x10^9/L
+43,1015,Ferritin,312.45,15-150 ng/mL
+44,1015,Hemoglobin,10.93,12-16 g/dL
+45,1015,Platelet Count,340.0,150-450 x10^9/L
+46,1016,Ferritin,210.0,15-150 ng/mL
+47,1016,Platelet Count,324.0,150-450 x10^9/L
+48,1016,Hemoglobin,8.39,12-16 g/dL
+49,1017,Oxygen Saturation,92.0,95-100 %
+50,1017,Peak Flow,268.29,400-600 L/min
+51,1017,Respiratory Rate,27.0,12-20 breaths/min
+52,1018,WBC Count,7.43,4-11 x10^9/L
+53,1018,CRP,16.1,0-5 mg/L
+54,1018,Oxygen Saturation,89.0,95-100 %
+55,1019,LDL Cholesterol,174.5,0-100 mg/dL
+56,1019,HDL Cholesterol,49.43,40-60 mg/dL
+57,1019,Troponin I,0.22,0.00-0.04 ng/mL
+58,1020,Fasting Glucose,91.24,70-100 mg/dL
+59,1020,HbA1c,8.82,4-5.6 %
+60,1020,BMI,26.28,18.5-24.9
+61,1021,Respiratory Rate,29.0,12-20 breaths/min
+62,1021,Peak Flow,517.29,400-600 L/min
+63,1021,Oxygen Saturation,97.0,95-100 %
+64,1022,Peak Flow,532.87,400-600 L/min
+65,1022,Respiratory Rate,10.0,12-20 breaths/min
+66,1022,Oxygen Saturation,94.0,95-100 %
+67,1023,Peak Flow,256.29,400-600 L/min
+68,1023,Oxygen Saturation,94.0,95-100 %
+69,1023,Respiratory Rate,18.0,12-20 breaths/min
+70,1024,BMI,17.33,18.5-24.9
+71,1024,Fasting Glucose,191.04,70-100 mg/dL
+72,1024,HbA1c,8.54,4-5.6 %
+73,1025,WBC Count,6.61,4-11 x10^9/L
+74,1025,Oxygen Saturation,95.0,95-100 %
+75,1025,CRP,20.57,0-5 mg/L
+76,1026,Diastolic BP,75.52,60-80 mmHg
+77,1026,Cholesterol,184.96,125-200 mg/dL
+78,1026,Systolic BP,140.85,90-120 mmHg
+79,1027,Blood Pressure,97.48,90-120 mmHg
+80,1027,Migraine Severity,4.0,0-10
+81,1027,Hemoglobin,13.15,12-16 g/dL
+82,1028,Oxygen Saturation,87.0,95-100 %
+83,1028,WBC Count,15.68,4-11 x10^9/L
+84,1028,CRP,51.77,0-5 mg/L
+85,1029,Cholesterol,156.76,125-200 mg/dL
+86,1029,Systolic BP,171.11,90-120 mmHg
+87,1029,Diastolic BP,93.08,60-80 mmHg
+88,1030,Fasting Glucose,171.09,70-100 mg/dL
+89,1030,HbA1c,6.18,4-5.6 %
+90,1030,BMI,27.32,18.5-24.9
+91,1031,Temperature,40.32,36.1-37.2 °C
+92,1031,WBC Count,11.81,4-11 x10^9/L
+93,1031,CRP,45.26,0-5 mg/L
+94,1032,Creatinine,2.19,0.60-1.30 mg/dL
+95,1032,WBC Count,11.5,4-11 x10^9/L
+96,1032,CRP,59.54,0-5 mg/L
+97,1033,Diastolic BP,82.54,60-80 mmHg
+98,1033,Systolic BP,177.69,90-120 mmHg
+99,1033,Cholesterol,128.59,125-200 mg/dL
+100,1034,Creatinine,2.32,0.60-1.30 mg/dL
+101,1034,CRP,43.16,0-5 mg/L
+102,1034,WBC Count,11.93,4-11 x10^9/L
+103,1035,Hemoglobin,11.92,12-16 g/dL
+104,1035,Ferritin,148.77,15-150 ng/mL
+105,1035,Platelet Count,524.0,150-450 x10^9/L
+106,1036,Troponin I,0.23,0.00-0.04 ng/mL
+107,1036,LDL Cholesterol,104.31,0-100 mg/dL
+108,1036,HDL Cholesterol,37.32,40-60 mg/dL
+109,1037,Systolic BP,124.2,90-120 mmHg
+110,1037,Diastolic BP,98.11,60-80 mmHg
+111,1037,Cholesterol,144.68,125-200 mg/dL
+112,1038,LDL Cholesterol,73.73,0-100 mg/dL
+113,1038,HDL Cholesterol,72.15,40-60 mg/dL
+114,1038,Troponin I,0.14,0.00-0.04 ng/mL
+115,1039,Hemoglobin,9.19,12-16 g/dL
+116,1039,Platelet Count,302.0,150-450 x10^9/L
+117,1039,Ferritin,226.35,15-150 ng/mL
+118,1040,Creatinine,1.56,0.60-1.30 mg/dL
+119,1040,CRP,6.97,0-5 mg/L
+120,1040,WBC Count,11.97,4-11 x10^9/L
+121,1041,WBC Count,9.21,4-11 x10^9/L
+122,1041,Temperature,39.46,36.1-37.2 °C
+123,1041,CRP,43.63,0-5 mg/L
+124,1042,Hemoglobin,10.27,12-16 g/dL
+125,1042,Migraine Severity,3.0,0-10
+126,1042,Blood Pressure,111.47,90-120 mmHg
+127,1043,Peak Flow,360.38,400-600 L/min
+128,1043,Respiratory Rate,16.0,12-20 breaths/min
+129,1043,Oxygen Saturation,97.0,95-100 %
+130,1044,WBC Count,11.91,4-11 x10^9/L
+131,1044,Creatinine,1.09,0.60-1.30 mg/dL
+132,1044,CRP,7.93,0-5 mg/L
+133,1045,Systolic BP,165.75,90-120 mmHg
+134,1045,Diastolic BP,75.89,60-80 mmHg
+135,1045,Cholesterol,257.95,125-200 mg/dL
+136,1046,WBC Count,7.51,4-11 x10^9/L
+137,1046,CRP,42.42,0-5 mg/L
+138,1046,Creatinine,2.59,0.60-1.30 mg/dL
+139,1047,Diastolic BP,108.28,60-80 mmHg
+140,1047,Systolic BP,116.23,90-120 mmHg
+141,1047,Cholesterol,231.19,125-200 mg/dL
+142,1048,CRP,22.88,0-5 mg/L
+143,1048,Temperature,39.64,36.1-37.2 °C
+144,1048,WBC Count,8.89,4-11 x10^9/L
+145,1049,Hemoglobin,14.11,12-16 g/dL
+146,1049,Migraine Severity,6.0,0-10
+147,1049,Blood Pressure,166.24,90-120 mmHg
+148,1050,CRP,47.96,0-5 mg/L
+149,1050,Temperature,39.71,36.1-37.2 °C
+150,1050,WBC Count,4.04,4-11 x10^9/L
+151,1051,WBC Count,12.5,4-11 x10^9/L
+152,1051,Hemoglobin,10.82,12-16 g/dL
+153,1051,Amylase,127.09,30-110 U/L
+154,1052,Ferritin,396.37,15-150 ng/mL
+155,1052,Hemoglobin,11.81,12-16 g/dL
+156,1052,Platelet Count,280.0,150-450 x10^9/L
+157,1053,Cholesterol,232.26,125-200 mg/dL
+158,1053,Systolic BP,163.11,90-120 mmHg
+159,1053,Diastolic BP,87.66,60-80 mmHg
+160,1054,Migraine Severity,2.0,0-10
+161,1054,Hemoglobin,13.6,12-16 g/dL
+162,1054,Blood Pressure,135.06,90-120 mmHg
+163,1055,CRP,1.34,0-5 mg/L
+164,1055,Oxygen Saturation,90.0,95-100 %
+165,1055,WBC Count,10.66,4-11 x10^9/L
+166,1056,Ferritin,190.59,15-150 ng/mL
+167,1056,Platelet Count,406.0,150-450 x10^9/L
+168,1056,Hemoglobin,13.71,12-16 g/dL
+169,1057,CRP,8.81,0-5 mg/L
+170,1057,WBC Count,9.24,4-11 x10^9/L
+171,1057,Oxygen Saturation,99.0,95-100 %
+172,1058,Respiratory Rate,16.0,12-20 breaths/min
+173,1058,Peak Flow,432.13,400-600 L/min
+174,1058,Oxygen Saturation,90.0,95-100 %
+175,1059,CRP,35.33,0-5 mg/L
+176,1059,Oxygen Saturation,96.0,95-100 %
+177,1059,WBC Count,7.78,4-11 x10^9/L
+178,1060,Creatinine,3.05,0.60-1.30 mg/dL
+179,1060,CRP,45.53,0-5 mg/L
+180,1060,WBC Count,13.16,4-11 x10^9/L
+181,1061,WBC Count,11.28,4-11 x10^9/L
+182,1061,Amylase,76.3,30-110 U/L
+183,1061,Hemoglobin,12.2,12-16 g/dL
+184,1062,Amylase,53.89,30-110 U/L
+185,1062,Hemoglobin,13.93,12-16 g/dL
+186,1062,WBC Count,8.93,4-11 x10^9/L
+187,1063,CRP,0.85,0-5 mg/L
+188,1063,Oxygen Saturation,89.0,95-100 %
+189,1063,WBC Count,7.18,4-11 x10^9/L
+190,1064,BMI,23.95,18.5-24.9
+191,1064,HbA1c,5.68,4-5.6 %
+192,1064,Fasting Glucose,82.66,70-100 mg/dL
+193,1065,WBC Count,12.17,4-11 x10^9/L
+194,1065,Hemoglobin,13.4,12-16 g/dL
+195,1065,Amylase,78.93,30-110 U/L
+196,1066,Cholesterol,266.99,125-200 mg/dL
+197,1066,Systolic BP,143.12,90-120 mmHg
+198,1066,Diastolic BP,91.97,60-80 mmHg
+199,1067,Peak Flow,296.78,400-600 L/min
+200,1067,Respiratory Rate,17.0,12-20 breaths/min
+201,1067,Oxygen Saturation,90.0,95-100 %
+202,1068,LDL Cholesterol,123.46,0-100 mg/dL
+203,1068,Troponin I,0.15,0.00-0.04 ng/mL
+204,1068,HDL Cholesterol,51.87,40-60 mg/dL
+205,1069,HDL Cholesterol,39.44,40-60 mg/dL
+206,1069,Troponin I,0.06,0.00-0.04 ng/mL
+207,1069,LDL Cholesterol,186.3,0-100 mg/dL
+208,1070,WBC Count,5.05,4-11 x10^9/L
+209,1070,Temperature,39.63,36.1-37.2 °C
+210,1070,CRP,57.85,0-5 mg/L
+211,1071,Ferritin,286.96,15-150 ng/mL
+212,1071,Platelet Count,300.0,150-450 x10^9/L
+213,1071,Hemoglobin,9.01,12-16 g/dL
+214,1072,WBC Count,7.12,4-11 x10^9/L
+215,1072,CRP,43.24,0-5 mg/L
+216,1072,Oxygen Saturation,88.0,95-100 %
+217,1073,CRP,40.3,0-5 mg/L
+218,1073,WBC Count,7.02,4-11 x10^9/L
+219,1073,Creatinine,2.13,0.60-1.30 mg/dL
+220,1074,CRP,33.01,0-5 mg/L
+221,1074,Temperature,40.45,36.1-37.2 °C
+222,1074,WBC Count,4.54,4-11 x10^9/L
+223,1075,WBC Count,6.94,4-11 x10^9/L
+224,1075,Creatinine,3.09,0.60-1.30 mg/dL
+225,1075,CRP,6.55,0-5 mg/L
+226,1076,Peak Flow,594.42,400-600 L/min
+227,1076,Respiratory Rate,22.0,12-20 breaths/min
+228,1076,Oxygen Saturation,93.0,95-100 %
+229,1077,Amylase,113.36,30-110 U/L
+230,1077,WBC Count,10.98,4-11 x10^9/L
+231,1077,Hemoglobin,13.48,12-16 g/dL
+232,1078,Hemoglobin,13.3,12-16 g/dL
+233,1078,WBC Count,17.29,4-11 x10^9/L
+234,1078,Amylase,104.73,30-110 U/L
+235,1079,Troponin I,0.3,0.00-0.04 ng/mL
+236,1079,LDL Cholesterol,190.06,0-100 mg/dL
+237,1079,HDL Cholesterol,31.34,40-60 mg/dL
+238,1080,Peak Flow,581.39,400-600 L/min
+239,1080,Respiratory Rate,25.0,12-20 breaths/min
+240,1080,Oxygen Saturation,96.0,95-100 %
+241,1081,Peak Flow,400.07,400-600 L/min
+242,1081,Oxygen Saturation,89.0,95-100 %
+243,1081,Respiratory Rate,26.0,12-20 breaths/min
+244,1082,CRP,36.65,0-5 mg/L
+245,1082,Oxygen Saturation,93.0,95-100 %
+246,1082,WBC Count,11.73,4-11 x10^9/L
+247,1083,Oxygen Saturation,98.0,95-100 %
+248,1083,CRP,63.76,0-5 mg/L
+249,1083,WBC Count,8.97,4-11 x10^9/L
+250,1084,Temperature,37.32,36.1-37.2 °C
+251,1084,WBC Count,7.25,4-11 x10^9/L
+252,1084,CRP,33.06,0-5 mg/L
+253,1085,CRP,53.7,0-5 mg/L
+254,1085,WBC Count,14.43,4-11 x10^9/L
+255,1085,Temperature,36.02,36.1-37.2 °C
+256,1086,Troponin I,0.14,0.00-0.04 ng/mL
+257,1086,HDL Cholesterol,25.03,40-60 mg/dL
+258,1086,LDL Cholesterol,203.7,0-100 mg/dL
+259,1087,BMI,20.02,18.5-24.9
+260,1087,HbA1c,10.1,4-5.6 %
+261,1087,Fasting Glucose,107.47,70-100 mg/dL
+262,1088,LDL Cholesterol,159.68,0-100 mg/dL
+263,1088,Troponin I,0.2,0.00-0.04 ng/mL
+264,1088,HDL Cholesterol,27.59,40-60 mg/dL
+265,1089,HDL Cholesterol,57.77,40-60 mg/dL
+266,1089,Troponin I,0.21,0.00-0.04 ng/mL
+267,1089,LDL Cholesterol,60.16,0-100 mg/dL
+268,1090,HbA1c,7.62,4-5.6 %
+269,1090,BMI,25.46,18.5-24.9
+270,1090,Fasting Glucose,66.25,70-100 mg/dL
+271,1091,Troponin I,0.15,0.00-0.04 ng/mL
+272,1091,LDL Cholesterol,94.34,0-100 mg/dL
+273,1091,HDL Cholesterol,29.47,40-60 mg/dL
+274,1092,Creatinine,3.14,0.60-1.30 mg/dL
+275,1092,WBC Count,5.06,4-11 x10^9/L
+276,1092,CRP,54.26,0-5 mg/L
+277,1093,CRP,32.07,0-5 mg/L
+278,1093,Temperature,35.84,36.1-37.2 °C
+279,1093,WBC Count,12.75,4-11 x10^9/L
+280,1094,WBC Count,16.8,4-11 x10^9/L
+281,1094,Temperature,38.7,36.1-37.2 °C
+282,1094,CRP,26.82,0-5 mg/L
+283,1095,HbA1c,9.01,4-5.6 %
+284,1095,BMI,28.2,18.5-24.9
+285,1095,Fasting Glucose,124.52,70-100 mg/dL
+286,1096,Hemoglobin,11.08,12-16 g/dL
+287,1096,Amylase,38.06,30-110 U/L
+288,1096,WBC Count,11.3,4-11 x10^9/L
+289,1097,Platelet Count,192.0,150-450 x10^9/L
+290,1097,Hemoglobin,12.96,12-16 g/dL
+291,1097,Ferritin,83.57,15-150 ng/mL
+292,1098,Oxygen Saturation,94.0,95-100 %
+293,1098,Peak Flow,295.1,400-600 L/min
+294,1098,Respiratory Rate,20.0,12-20 breaths/min
+295,1099,Oxygen Saturation,99.0,95-100 %
+296,1099,WBC Count,4.98,4-11 x10^9/L
+297,1099,CRP,68.93,0-5 mg/L
+298,1100,Fasting Glucose,212.94,70-100 mg/dL
+299,1100,HbA1c,9.12,4-5.6 %
+300,1100,BMI,17.32,18.5-24.9
+301,1101,Peak Flow,265.93,400-600 L/min
+302,1101,Oxygen Saturation,89.0,95-100 %
+303,1101,Respiratory Rate,26.0,12-20 breaths/min
+304,1102,Hemoglobin,14.26,12-16 g/dL
+305,1102,Blood Pressure,96.59,90-120 mmHg
+306,1102,Migraine Severity,5.0,0-10
+307,1103,CRP,6.78,0-5 mg/L
+308,1103,WBC Count,16.81,4-11 x10^9/L
+309,1103,Oxygen Saturation,100.0,95-100 %
+310,1104,Respiratory Rate,22.0,12-20 breaths/min
+311,1104,Oxygen Saturation,97.0,95-100 %
+312,1104,Peak Flow,509.94,400-600 L/min
+313,1105,Blood Pressure,94.63,90-120 mmHg
+314,1105,Hemoglobin,9.65,12-16 g/dL
+315,1105,Migraine Severity,4.0,0-10
+316,1106,BMI,29.66,18.5-24.9
+317,1106,HbA1c,8.45,4-5.6 %
+318,1106,Fasting Glucose,92.23,70-100 mg/dL
+319,1107,CRP,11.89,0-5 mg/L
+320,1107,Creatinine,3.36,0.60-1.30 mg/dL
+321,1107,WBC Count,10.85,4-11 x10^9/L
+322,1108,Hemoglobin,14.25,12-16 g/dL
+323,1108,Ferritin,350.65,15-150 ng/mL
+324,1108,Platelet Count,430.0,150-450 x10^9/L
+325,1109,Migraine Severity,3.0,0-10
+326,1109,Blood Pressure,95.11,90-120 mmHg
+327,1109,Hemoglobin,14.34,12-16 g/dL
+328,1110,Diastolic BP,58.05,60-80 mmHg
+329,1110,Cholesterol,257.5,125-200 mg/dL
+330,1110,Systolic BP,105.02,90-120 mmHg
+331,1111,WBC Count,6.43,4-11 x10^9/L
+332,1111,Temperature,38.19,36.1-37.2 °C
+333,1111,CRP,3.12,0-5 mg/L
+334,1112,Amylase,81.42,30-110 U/L
+335,1112,WBC Count,16.8,4-11 x10^9/L
+336,1112,Hemoglobin,10.34,12-16 g/dL
+337,1113,HDL Cholesterol,41.09,40-60 mg/dL
+338,1113,LDL Cholesterol,122.44,0-100 mg/dL
+339,1113,Troponin I,0.22,0.00-0.04 ng/mL
+340,1114,Amylase,102.82,30-110 U/L
+341,1114,Hemoglobin,15.76,12-16 g/dL
+342,1114,WBC Count,5.69,4-11 x10^9/L
+343,1115,WBC Count,15.99,4-11 x10^9/L
+344,1115,Temperature,39.44,36.1-37.2 °C
+345,1115,CRP,18.99,0-5 mg/L
+346,1116,CRP,22.45,0-5 mg/L
+347,1116,WBC Count,7.37,4-11 x10^9/L
+348,1116,Temperature,39.49,36.1-37.2 °C
+349,1117,Oxygen Saturation,100.0,95-100 %
+350,1117,Respiratory Rate,26.0,12-20 breaths/min
+351,1117,Peak Flow,542.99,400-600 L/min
+352,1118,Troponin I,0.02,0.00-0.04 ng/mL
+353,1118,HDL Cholesterol,52.08,40-60 mg/dL
+354,1118,LDL Cholesterol,155.39,0-100 mg/dL
+355,1119,CRP,68.0,0-5 mg/L
+356,1119,WBC Count,13.91,4-11 x10^9/L
+357,1119,Oxygen Saturation,87.0,95-100 %
+358,1120,Hemoglobin,16.29,12-16 g/dL
+359,1120,WBC Count,5.14,4-11 x10^9/L
+360,1120,Amylase,68.37,30-110 U/L
+361,1121,Migraine Severity,5.0,0-10
+362,1121,Blood Pressure,149.83,90-120 mmHg
+363,1121,Hemoglobin,13.36,12-16 g/dL
+364,1122,CRP,35.72,0-5 mg/L
+365,1122,WBC Count,3.93,4-11 x10^9/L
+366,1122,Temperature,38.91,36.1-37.2 °C
+367,1123,Temperature,39.8,36.1-37.2 °C
+368,1123,WBC Count,16.89,4-11 x10^9/L
+369,1123,CRP,23.88,0-5 mg/L
+370,1124,CRP,19.07,0-5 mg/L
+371,1124,Oxygen Saturation,99.0,95-100 %
+372,1124,WBC Count,5.04,4-11 x10^9/L
+373,1125,Migraine Severity,4.0,0-10
+374,1125,Hemoglobin,11.36,12-16 g/dL
+375,1125,Blood Pressure,99.66,90-120 mmHg
+376,1126,Amylase,96.82,30-110 U/L
+377,1126,Hemoglobin,15.39,12-16 g/dL
+378,1126,WBC Count,4.36,4-11 x10^9/L
+379,1127,BMI,32.88,18.5-24.9
+380,1127,HbA1c,6.47,4-5.6 %
+381,1127,Fasting Glucose,79.14,70-100 mg/dL
+382,1128,Hemoglobin,14.08,12-16 g/dL
+383,1128,WBC Count,6.9,4-11 x10^9/L
+384,1128,Amylase,178.55,30-110 U/L
+385,1129,CRP,8.03,0-5 mg/L
+386,1129,Oxygen Saturation,87.0,95-100 %
+387,1129,WBC Count,14.91,4-11 x10^9/L
+388,1130,WBC Count,4.96,4-11 x10^9/L
+389,1130,Oxygen Saturation,98.0,95-100 %
+390,1130,CRP,30.09,0-5 mg/L
+391,1131,Cholesterol,123.49,125-200 mg/dL
+392,1131,Diastolic BP,58.55,60-80 mmHg
+393,1131,Systolic BP,171.22,90-120 mmHg
+394,1132,Systolic BP,101.03,90-120 mmHg
+395,1132,Cholesterol,270.76,125-200 mg/dL
+396,1132,Diastolic BP,57.79,60-80 mmHg
+397,1133,Platelet Count,113.0,150-450 x10^9/L
+398,1133,Ferritin,276.45,15-150 ng/mL
+399,1133,Hemoglobin,9.06,12-16 g/dL
+400,1134,Systolic BP,130.14,90-120 mmHg
+401,1134,Diastolic BP,63.17,60-80 mmHg
+402,1134,Cholesterol,218.26,125-200 mg/dL
+403,1135,CRP,25.01,0-5 mg/L
+404,1135,WBC Count,11.26,4-11 x10^9/L
+405,1135,Temperature,36.09,36.1-37.2 °C
+406,1136,Hemoglobin,10.5,12-16 g/dL
+407,1136,Amylase,162.12,30-110 U/L
+408,1136,WBC Count,10.89,4-11 x10^9/L
+409,1137,Blood Pressure,133.56,90-120 mmHg
+410,1137,Hemoglobin,12.64,12-16 g/dL
+411,1137,Migraine Severity,9.0,0-10
+412,1138,LDL Cholesterol,63.91,0-100 mg/dL
+413,1138,HDL Cholesterol,54.86,40-60 mg/dL
+414,1138,Troponin I,0.02,0.00-0.04 ng/mL
+415,1139,Migraine Severity,8.0,0-10
+416,1139,Blood Pressure,169.97,90-120 mmHg
+417,1139,Hemoglobin,16.3,12-16 g/dL
+418,1140,HbA1c,7.7,4-5.6 %
+419,1140,BMI,32.03,18.5-24.9
+420,1140,Fasting Glucose,179.24,70-100 mg/dL
+421,1141,CRP,65.5,0-5 mg/L
+422,1141,WBC Count,17.87,4-11 x10^9/L
+423,1141,Creatinine,1.02,0.60-1.30 mg/dL
+424,1142,Platelet Count,511.0,150-450 x10^9/L
+425,1142,Ferritin,21.0,15-150 ng/mL
+426,1142,Hemoglobin,13.81,12-16 g/dL
+427,1143,CRP,32.76,0-5 mg/L
+428,1143,Temperature,36.63,36.1-37.2 °C
+429,1143,WBC Count,3.57,4-11 x10^9/L
+430,1144,Temperature,38.27,36.1-37.2 °C
+431,1144,CRP,0.54,0-5 mg/L
+432,1144,WBC Count,16.77,4-11 x10^9/L
+433,1145,Migraine Severity,9.0,0-10
+434,1145,Blood Pressure,157.54,90-120 mmHg
+435,1145,Hemoglobin,11.43,12-16 g/dL
+436,1146,Systolic BP,166.18,90-120 mmHg
+437,1146,Cholesterol,257.71,125-200 mg/dL
+438,1146,Diastolic BP,107.83,60-80 mmHg
+439,1147,WBC Count,8.05,4-11 x10^9/L
+440,1147,Hemoglobin,11.42,12-16 g/dL
+441,1147,Amylase,176.26,30-110 U/L
+442,1148,CRP,10.87,0-5 mg/L
+443,1148,WBC Count,17.53,4-11 x10^9/L
+444,1148,Temperature,39.06,36.1-37.2 °C
+445,1149,Peak Flow,372.73,400-600 L/min
+446,1149,Respiratory Rate,24.0,12-20 breaths/min
+447,1149,Oxygen Saturation,90.0,95-100 %
+448,1150,Hemoglobin,10.37,12-16 g/dL
+449,1150,Blood Pressure,115.46,90-120 mmHg
+450,1150,Migraine Severity,8.0,0-10
+451,1151,Hemoglobin,10.05,12-16 g/dL
+452,1151,Migraine Severity,7.0,0-10
+453,1151,Blood Pressure,109.04,90-120 mmHg
+454,1152,Troponin I,0.14,0.00-0.04 ng/mL
+455,1152,HDL Cholesterol,38.26,40-60 mg/dL
+456,1152,LDL Cholesterol,97.43,0-100 mg/dL
+457,1153,Fasting Glucose,176.66,70-100 mg/dL
+458,1153,BMI,17.91,18.5-24.9
+459,1153,HbA1c,7.13,4-5.6 %
+460,1154,Troponin I,0.27,0.00-0.04 ng/mL
+461,1154,LDL Cholesterol,112.68,0-100 mg/dL
+462,1154,HDL Cholesterol,43.77,40-60 mg/dL
+463,1155,CRP,31.86,0-5 mg/L
+464,1155,Creatinine,2.9,0.60-1.30 mg/dL
+465,1155,WBC Count,3.5,4-11 x10^9/L
+466,1156,CRP,6.4,0-5 mg/L
+467,1156,Oxygen Saturation,88.0,95-100 %
+468,1156,WBC Count,8.63,4-11 x10^9/L
+469,1157,CRP,35.84,0-5 mg/L
+470,1157,Temperature,38.68,36.1-37.2 °C
+471,1157,WBC Count,10.24,4-11 x10^9/L
+472,1158,LDL Cholesterol,83.57,0-100 mg/dL
+473,1158,Troponin I,0.04,0.00-0.04 ng/mL
+474,1158,HDL Cholesterol,35.28,40-60 mg/dL
+475,1159,Diastolic BP,71.36,60-80 mmHg
+476,1159,Cholesterol,135.35,125-200 mg/dL
+477,1159,Systolic BP,125.36,90-120 mmHg
+478,1160,Amylase,25.59,30-110 U/L
+479,1160,WBC Count,4.31,4-11 x10^9/L
+480,1160,Hemoglobin,15.18,12-16 g/dL
+481,1161,HbA1c,5.74,4-5.6 %
+482,1161,BMI,29.13,18.5-24.9
+483,1161,Fasting Glucose,216.44,70-100 mg/dL
+484,1162,Creatinine,1.91,0.60-1.30 mg/dL
+485,1162,WBC Count,16.42,4-11 x10^9/L
+486,1162,CRP,18.92,0-5 mg/L
+487,1163,HbA1c,6.72,4-5.6 %
+488,1163,Fasting Glucose,134.1,70-100 mg/dL
+489,1163,BMI,22.0,18.5-24.9
+490,1164,WBC Count,11.46,4-11 x10^9/L
+491,1164,Creatinine,0.95,0.60-1.30 mg/dL
+492,1164,CRP,48.9,0-5 mg/L
+493,1165,Troponin I,0.29,0.00-0.04 ng/mL
+494,1165,LDL Cholesterol,148.46,0-100 mg/dL
+495,1165,HDL Cholesterol,52.68,40-60 mg/dL
+496,1166,Platelet Count,358.0,150-450 x10^9/L
+497,1166,Ferritin,101.9,15-150 ng/mL
+498,1166,Hemoglobin,10.19,12-16 g/dL
+499,1167,Respiratory Rate,12.0,12-20 breaths/min
+500,1167,Peak Flow,552.88,400-600 L/min
+501,1167,Oxygen Saturation,90.0,95-100 %
+502,1168,Temperature,36.0,36.1-37.2 °C
+503,1168,CRP,5.16,0-5 mg/L
+504,1168,WBC Count,13.25,4-11 x10^9/L
+505,1169,Hemoglobin,11.4,12-16 g/dL
+506,1169,Migraine Severity,7.0,0-10
+507,1169,Blood Pressure,154.59,90-120 mmHg
+508,1170,Oxygen Saturation,98.0,95-100 %
+509,1170,Respiratory Rate,20.0,12-20 breaths/min
+510,1170,Peak Flow,616.86,400-600 L/min
+511,1171,WBC Count,9.22,4-11 x10^9/L
+512,1171,Hemoglobin,10.11,12-16 g/dL
+513,1171,Amylase,116.13,30-110 U/L
+514,1172,Troponin I,0.26,0.00-0.04 ng/mL
+515,1172,HDL Cholesterol,69.01,40-60 mg/dL
+516,1172,LDL Cholesterol,191.68,0-100 mg/dL
+517,1173,LDL Cholesterol,65.62,0-100 mg/dL
+518,1173,HDL Cholesterol,38.77,40-60 mg/dL
+519,1173,Troponin I,0.05,0.00-0.04 ng/mL
+520,1174,Peak Flow,526.21,400-600 L/min
+521,1174,Oxygen Saturation,89.0,95-100 %
+522,1174,Respiratory Rate,20.0,12-20 breaths/min
+523,1175,Blood Pressure,155.39,90-120 mmHg
+524,1175,Migraine Severity,3.0,0-10
+525,1175,Hemoglobin,11.1,12-16 g/dL
+526,1176,Cholesterol,141.5,125-200 mg/dL
+527,1176,Systolic BP,177.68,90-120 mmHg
+528,1176,Diastolic BP,79.37,60-80 mmHg
+529,1177,Fasting Glucose,94.13,70-100 mg/dL
+530,1177,BMI,21.02,18.5-24.9
+531,1177,HbA1c,9.44,4-5.6 %
+532,1178,Respiratory Rate,20.0,12-20 breaths/min
+533,1178,Oxygen Saturation,90.0,95-100 %
+534,1178,Peak Flow,374.45,400-600 L/min
+535,1179,Temperature,36.71,36.1-37.2 °C
+536,1179,CRP,50.06,0-5 mg/L
+537,1179,WBC Count,15.55,4-11 x10^9/L
+538,1180,Temperature,40.11,36.1-37.2 °C
+539,1180,WBC Count,13.57,4-11 x10^9/L
+540,1180,CRP,16.8,0-5 mg/L
+541,1181,Platelet Count,407.0,150-450 x10^9/L
+542,1181,Ferritin,104.36,15-150 ng/mL
+543,1181,Hemoglobin,11.9,12-16 g/dL
+544,1182,Migraine Severity,3.0,0-10
+545,1182,Blood Pressure,157.01,90-120 mmHg
+546,1182,Hemoglobin,10.94,12-16 g/dL
+547,1183,WBC Count,3.74,4-11 x10^9/L
+548,1183,Temperature,39.81,36.1-37.2 °C
+549,1183,CRP,46.9,0-5 mg/L
+550,1184,Amylase,66.71,30-110 U/L
+551,1184,WBC Count,9.14,4-11 x10^9/L
+552,1184,Hemoglobin,9.15,12-16 g/dL
+553,1185,Diastolic BP,88.06,60-80 mmHg
+554,1185,Systolic BP,90.76,90-120 mmHg
+555,1185,Cholesterol,160.38,125-200 mg/dL
+556,1186,HDL Cholesterol,69.77,40-60 mg/dL
+557,1186,LDL Cholesterol,187.74,0-100 mg/dL
+558,1186,Troponin I,0.14,0.00-0.04 ng/mL
+559,1187,Blood Pressure,136.76,90-120 mmHg
+560,1187,Hemoglobin,9.06,12-16 g/dL
+561,1187,Migraine Severity,10.0,0-10
+562,1188,BMI,30.0,18.5-24.9
+563,1188,Fasting Glucose,139.67,70-100 mg/dL
+564,1188,HbA1c,6.52,4-5.6 %
+565,1189,CRP,18.65,0-5 mg/L
+566,1189,WBC Count,13.67,4-11 x10^9/L
+567,1189,Creatinine,3.18,0.60-1.30 mg/dL
+568,1190,Creatinine,3.2,0.60-1.30 mg/dL
+569,1190,CRP,56.48,0-5 mg/L
+570,1190,WBC Count,15.04,4-11 x10^9/L
+571,1191,Cholesterol,235.41,125-200 mg/dL
+572,1191,Diastolic BP,91.05,60-80 mmHg
+573,1191,Systolic BP,179.77,90-120 mmHg
+574,1192,WBC Count,14.05,4-11 x10^9/L
+575,1192,CRP,41.02,0-5 mg/L
+576,1192,Creatinine,3.48,0.60-1.30 mg/dL
+577,1193,Fasting Glucose,205.51,70-100 mg/dL
+578,1193,HbA1c,8.53,4-5.6 %
+579,1193,BMI,26.64,18.5-24.9
+580,1194,Oxygen Saturation,87.0,95-100 %
+581,1194,WBC Count,4.92,4-11 x10^9/L
+582,1194,CRP,21.06,0-5 mg/L
+583,1195,Respiratory Rate,14.0,12-20 breaths/min
+584,1195,Oxygen Saturation,91.0,95-100 %
+585,1195,Peak Flow,598.57,400-600 L/min
+586,1196,CRP,47.05,0-5 mg/L
+587,1196,Oxygen Saturation,92.0,95-100 %
+588,1196,WBC Count,4.77,4-11 x10^9/L
+589,1197,HDL Cholesterol,69.47,40-60 mg/dL
+590,1197,Troponin I,0.16,0.00-0.04 ng/mL
+591,1197,LDL Cholesterol,190.12,0-100 mg/dL
+592,1198,Respiratory Rate,11.0,12-20 breaths/min
+593,1198,Oxygen Saturation,98.0,95-100 %
+594,1198,Peak Flow,304.95,400-600 L/min
+595,1199,WBC Count,5.15,4-11 x10^9/L
+596,1199,CRP,51.81,0-5 mg/L
+597,1199,Temperature,36.65,36.1-37.2 °C
+598,1200,CRP,25.42,0-5 mg/L
+599,1200,Oxygen Saturation,87.0,95-100 %
+600,1200,WBC Count,9.78,4-11 x10^9/L
+601,1201,WBC Count,14.78,4-11 x10^9/L
+602,1201,Oxygen Saturation,97.0,95-100 %
+603,1201,CRP,10.79,0-5 mg/L
+604,1202,Oxygen Saturation,92.0,95-100 %
+605,1202,CRP,38.45,0-5 mg/L
+606,1202,WBC Count,3.07,4-11 x10^9/L
+607,1203,Respiratory Rate,28.0,12-20 breaths/min
+608,1203,Oxygen Saturation,97.0,95-100 %
+609,1203,Peak Flow,462.41,400-600 L/min
+610,1204,CRP,13.96,0-5 mg/L
+611,1204,Temperature,39.92,36.1-37.2 °C
+612,1204,WBC Count,7.68,4-11 x10^9/L
+613,1205,Diastolic BP,58.59,60-80 mmHg
+614,1205,Cholesterol,127.31,125-200 mg/dL
+615,1205,Systolic BP,175.36,90-120 mmHg
+616,1206,HDL Cholesterol,69.4,40-60 mg/dL
+617,1206,LDL Cholesterol,209.32,0-100 mg/dL
+618,1206,Troponin I,0.11,0.00-0.04 ng/mL
+619,1207,CRP,75.87,0-5 mg/L
+620,1207,WBC Count,16.77,4-11 x10^9/L
+621,1207,Oxygen Saturation,92.0,95-100 %
+622,1208,Creatinine,2.7,0.60-1.30 mg/dL
+623,1208,CRP,41.48,0-5 mg/L
+624,1208,WBC Count,5.53,4-11 x10^9/L
+625,1209,BMI,33.65,18.5-24.9
+626,1209,HbA1c,6.03,4-5.6 %
+627,1209,Fasting Glucose,147.88,70-100 mg/dL
+628,1210,Respiratory Rate,23.0,12-20 breaths/min
+629,1210,Peak Flow,257.9,400-600 L/min
+630,1210,Oxygen Saturation,96.0,95-100 %
+631,1211,Hemoglobin,13.1,12-16 g/dL
+632,1211,WBC Count,10.12,4-11 x10^9/L
+633,1211,Amylase,48.73,30-110 U/L
+634,1212,Hemoglobin,13.97,12-16 g/dL
+635,1212,WBC Count,7.05,4-11 x10^9/L
+636,1212,Amylase,118.87,30-110 U/L
+637,1213,LDL Cholesterol,102.41,0-100 mg/dL
+638,1213,Troponin I,0.24,0.00-0.04 ng/mL
+639,1213,HDL Cholesterol,49.89,40-60 mg/dL
+640,1214,WBC Count,13.55,4-11 x10^9/L
+641,1214,Creatinine,1.39,0.60-1.30 mg/dL
+642,1214,CRP,3.24,0-5 mg/L
+643,1215,Migraine Severity,2.0,0-10
+644,1215,Blood Pressure,91.02,90-120 mmHg
+645,1215,Hemoglobin,9.67,12-16 g/dL
+646,1216,CRP,66.49,0-5 mg/L
+647,1216,WBC Count,14.69,4-11 x10^9/L
+648,1216,Creatinine,0.73,0.60-1.30 mg/dL
+649,1217,Diastolic BP,109.38,60-80 mmHg
+650,1217,Systolic BP,116.64,90-120 mmHg
+651,1217,Cholesterol,194.28,125-200 mg/dL
+652,1218,Creatinine,1.58,0.60-1.30 mg/dL
+653,1218,CRP,47.54,0-5 mg/L
+654,1218,WBC Count,9.39,4-11 x10^9/L
+655,1219,Hemoglobin,15.17,12-16 g/dL
+656,1219,Platelet Count,399.0,150-450 x10^9/L
+657,1219,Ferritin,76.5,15-150 ng/mL
+658,1220,Blood Pressure,119.81,90-120 mmHg
+659,1220,Hemoglobin,11.57,12-16 g/dL
+660,1220,Migraine Severity,1.0,0-10
+661,1221,Diastolic BP,92.94,60-80 mmHg
+662,1221,Cholesterol,196.52,125-200 mg/dL
+663,1221,Systolic BP,127.96,90-120 mmHg
+664,1222,Systolic BP,178.34,90-120 mmHg
+665,1222,Cholesterol,255.1,125-200 mg/dL
+666,1222,Diastolic BP,60.7,60-80 mmHg
+667,1223,Hemoglobin,13.58,12-16 g/dL
+668,1223,Blood Pressure,152.33,90-120 mmHg
+669,1223,Migraine Severity,6.0,0-10
+670,1224,Ferritin,356.16,15-150 ng/mL
+671,1224,Platelet Count,298.0,150-450 x10^9/L
+672,1224,Hemoglobin,8.07,12-16 g/dL
+673,1225,Hemoglobin,12.17,12-16 g/dL
+674,1225,Platelet Count,410.0,150-450 x10^9/L
+675,1225,Ferritin,251.11,15-150 ng/mL
+676,1226,Platelet Count,256.0,150-450 x10^9/L
+677,1226,Hemoglobin,13.59,12-16 g/dL
+678,1226,Ferritin,160.1,15-150 ng/mL
+679,1227,Creatinine,3.06,0.60-1.30 mg/dL
+680,1227,CRP,60.92,0-5 mg/L
+681,1227,WBC Count,4.12,4-11 x10^9/L
+682,1228,Blood Pressure,167.61,90-120 mmHg
+683,1228,Migraine Severity,1.0,0-10
+684,1228,Hemoglobin,10.67,12-16 g/dL
+685,1229,Hemoglobin,12.44,12-16 g/dL
+686,1229,Amylase,149.2,30-110 U/L
+687,1229,WBC Count,9.72,4-11 x10^9/L
+688,1230,CRP,78.46,0-5 mg/L
+689,1230,Oxygen Saturation,96.0,95-100 %
+690,1230,WBC Count,3.27,4-11 x10^9/L
+691,1231,Oxygen Saturation,98.0,95-100 %
+692,1231,Peak Flow,566.71,400-600 L/min
+693,1231,Respiratory Rate,29.0,12-20 breaths/min
+694,1232,Hemoglobin,16.13,12-16 g/dL
+695,1232,Migraine Severity,4.0,0-10
+696,1232,Blood Pressure,94.34,90-120 mmHg
+697,1233,WBC Count,13.75,4-11 x10^9/L
+698,1233,CRP,22.12,0-5 mg/L
+699,1233,Temperature,37.93,36.1-37.2 °C
+700,1234,Hemoglobin,11.56,12-16 g/dL
+701,1234,Migraine Severity,8.0,0-10
+702,1234,Blood Pressure,167.15,90-120 mmHg
+703,1235,CRP,3.68,0-5 mg/L
+704,1235,WBC Count,5.46,4-11 x10^9/L
+705,1235,Creatinine,0.92,0.60-1.30 mg/dL
+706,1236,Amylase,54.07,30-110 U/L
+707,1236,Hemoglobin,15.98,12-16 g/dL
+708,1236,WBC Count,8.89,4-11 x10^9/L
+709,1237,Systolic BP,158.14,90-120 mmHg
+710,1237,Diastolic BP,57.56,60-80 mmHg
+711,1237,Cholesterol,221.32,125-200 mg/dL
+712,1238,Fasting Glucose,214.4,70-100 mg/dL
+713,1238,BMI,17.08,18.5-24.9
+714,1238,HbA1c,8.92,4-5.6 %
+715,1239,HDL Cholesterol,59.59,40-60 mg/dL
+716,1239,LDL Cholesterol,86.05,0-100 mg/dL
+717,1239,Troponin I,0.25,0.00-0.04 ng/mL
+718,1240,LDL Cholesterol,122.8,0-100 mg/dL
+719,1240,HDL Cholesterol,55.45,40-60 mg/dL
+720,1240,Troponin I,0.21,0.00-0.04 ng/mL
+721,1241,LDL Cholesterol,205.57,0-100 mg/dL
+722,1241,HDL Cholesterol,47.64,40-60 mg/dL
+723,1241,Troponin I,0.05,0.00-0.04 ng/mL
+724,1242,Oxygen Saturation,96.0,95-100 %
+725,1242,CRP,74.87,0-5 mg/L
+726,1242,WBC Count,12.49,4-11 x10^9/L
+727,1243,Peak Flow,618.48,400-600 L/min
+728,1243,Oxygen Saturation,90.0,95-100 %
+729,1243,Respiratory Rate,24.0,12-20 breaths/min
+730,1244,Respiratory Rate,25.0,12-20 breaths/min
+731,1244,Oxygen Saturation,95.0,95-100 %
+732,1244,Peak Flow,483.12,400-600 L/min
+733,1245,BMI,32.36,18.5-24.9
+734,1245,Fasting Glucose,146.02,70-100 mg/dL
+735,1245,HbA1c,4.65,4-5.6 %
+736,1246,Hemoglobin,9.9,12-16 g/dL
+737,1246,Platelet Count,453.0,150-450 x10^9/L
+738,1246,Ferritin,393.58,15-150 ng/mL
+739,1247,Temperature,36.76,36.1-37.2 °C
+740,1247,CRP,32.7,0-5 mg/L
+741,1247,WBC Count,8.38,4-11 x10^9/L
+742,1248,Systolic BP,111.38,90-120 mmHg
+743,1248,Cholesterol,245.49,125-200 mg/dL
+744,1248,Diastolic BP,98.94,60-80 mmHg
+745,1249,Hemoglobin,11.91,12-16 g/dL
+746,1249,Migraine Severity,10.0,0-10
+747,1249,Blood Pressure,168.07,90-120 mmHg
+748,1250,Platelet Count,435.0,150-450 x10^9/L
+749,1250,Hemoglobin,9.33,12-16 g/dL
+750,1250,Ferritin,348.85,15-150 ng/mL

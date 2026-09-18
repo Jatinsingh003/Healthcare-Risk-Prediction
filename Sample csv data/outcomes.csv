@@ -1,0 +1,6 @@
+outcome_id,outcome_name
+1,Recovered
+2,Improved
+3,Stable
+4,Referred
+5,Deceased
