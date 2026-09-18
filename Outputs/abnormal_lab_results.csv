@@ -1,0 +1,473 @@
+patient_id,name,diagnosis_name,test_name,result,normal_range,lab_status
+1001,Aarav Bhatia,Asthma,Oxygen Saturation,94.0,95-100 %,Abnormal
+1001,Aarav Bhatia,Asthma,Respiratory Rate,26.0,12-20 breaths/min,Abnormal
+1001,Aarav Bhatia,Asthma,Peak Flow,349.0,400-600 L/min,Abnormal
+1002,Neha Sharma,Asthma,Peak Flow,624.96,400-600 L/min,Abnormal
+1003,Meera Chauhan,Hypertension,Diastolic BP,56.85,60-80 mmHg,Abnormal
+1004,Sumit Yadav,Type 2 Diabetes,HbA1c,7.13,4-5.6 %,Abnormal
+1004,Sumit Yadav,Type 2 Diabetes,BMI,27.26,18.5-24.9,Abnormal
+1004,Sumit Yadav,Type 2 Diabetes,Fasting Glucose,181.93,70-100 mg/dL,Abnormal
+1005,Payal Verma,Anemia,Ferritin,295.29,15-150 ng/mL,Abnormal
+1006,Divya Patel,Hypertension,Systolic BP,178.71,90-120 mmHg,Abnormal
+1006,Divya Patel,Hypertension,Diastolic BP,83.67,60-80 mmHg,Abnormal
+1007,Sachin Singh,Coronary Artery Disease,Troponin I,0.17,0.00-0.04 ng/mL,Abnormal
+1007,Sachin Singh,Coronary Artery Disease,HDL Cholesterol,27.34,40-60 mg/dL,Abnormal
+1007,Sachin Singh,Coronary Artery Disease,LDL Cholesterol,111.66,0-100 mg/dL,Abnormal
+1008,Riya Thakur,Type 2 Diabetes,Fasting Glucose,111.48,70-100 mg/dL,Abnormal
+1009,Shreya Jain,Kidney Infection,Creatinine,3.07,0.60-1.30 mg/dL,Abnormal
+1009,Shreya Jain,Kidney Infection,CRP,10.53,0-5 mg/L,Abnormal
+1010,Ananya Patel,Asthma,Respiratory Rate,21.0,12-20 breaths/min,Abnormal
+1010,Ananya Patel,Asthma,Oxygen Saturation,90.0,95-100 %,Abnormal
+1010,Ananya Patel,Asthma,Peak Flow,347.14,400-600 L/min,Abnormal
+1011,Simran Kapoor,Viral Fever,WBC Count,15.71,4-11 x10^9/L,Abnormal
+1011,Simran Kapoor,Viral Fever,CRP,43.61,0-5 mg/L,Abnormal
+1012,Ananya Agarwal,Type 2 Diabetes,HbA1c,8.54,4-5.6 %,Abnormal
+1012,Ananya Agarwal,Type 2 Diabetes,Fasting Glucose,158.45,70-100 mg/dL,Abnormal
+1012,Ananya Agarwal,Type 2 Diabetes,BMI,33.6,18.5-24.9,Abnormal
+1014,Vivek Iyer,Kidney Infection,Creatinine,2.74,0.60-1.30 mg/dL,Abnormal
+1014,Vivek Iyer,Kidney Infection,CRP,52.93,0-5 mg/L,Abnormal
+1014,Vivek Iyer,Kidney Infection,WBC Count,16.72,4-11 x10^9/L,Abnormal
+1015,Muskan Agarwal,Anemia,Ferritin,312.45,15-150 ng/mL,Abnormal
+1015,Muskan Agarwal,Anemia,Hemoglobin,10.93,12-16 g/dL,Abnormal
+1016,Sandeep Bansal,Anemia,Ferritin,210.0,15-150 ng/mL,Abnormal
+1016,Sandeep Bansal,Anemia,Hemoglobin,8.39,12-16 g/dL,Abnormal
+1017,Kunal Bansal,Asthma,Oxygen Saturation,92.0,95-100 %,Abnormal
+1017,Kunal Bansal,Asthma,Peak Flow,268.29,400-600 L/min,Abnormal
+1017,Kunal Bansal,Asthma,Respiratory Rate,27.0,12-20 breaths/min,Abnormal
+1018,Tanvi Gupta,Pneumonia,CRP,16.1,0-5 mg/L,Abnormal
+1018,Tanvi Gupta,Pneumonia,Oxygen Saturation,89.0,95-100 %,Abnormal
+1019,Riya Iyer,Coronary Artery Disease,LDL Cholesterol,174.5,0-100 mg/dL,Abnormal
+1019,Riya Iyer,Coronary Artery Disease,Troponin I,0.22,0.00-0.04 ng/mL,Abnormal
+1020,Kavya Kapoor,Type 2 Diabetes,HbA1c,8.82,4-5.6 %,Abnormal
+1020,Kavya Kapoor,Type 2 Diabetes,BMI,26.28,18.5-24.9,Abnormal
+1021,Aarav Gupta,Asthma,Respiratory Rate,29.0,12-20 breaths/min,Abnormal
+1022,Nitin Thakur,Asthma,Respiratory Rate,10.0,12-20 breaths/min,Abnormal
+1022,Nitin Thakur,Asthma,Oxygen Saturation,94.0,95-100 %,Abnormal
+1023,Meera Rao,Asthma,Peak Flow,256.29,400-600 L/min,Abnormal
+1023,Meera Rao,Asthma,Oxygen Saturation,94.0,95-100 %,Abnormal
+1024,Sneha Bhatia,Type 2 Diabetes,BMI,17.33,18.5-24.9,Abnormal
+1024,Sneha Bhatia,Type 2 Diabetes,Fasting Glucose,191.04,70-100 mg/dL,Abnormal
+1024,Sneha Bhatia,Type 2 Diabetes,HbA1c,8.54,4-5.6 %,Abnormal
+1025,Karan Iyer,Pneumonia,CRP,20.57,0-5 mg/L,Abnormal
+1026,Abhishek Iyer,Hypertension,Systolic BP,140.85,90-120 mmHg,Abnormal
+1028,Ishita Mishra,Pneumonia,Oxygen Saturation,87.0,95-100 %,Abnormal
+1028,Ishita Mishra,Pneumonia,WBC Count,15.68,4-11 x10^9/L,Abnormal
+1028,Ishita Mishra,Pneumonia,CRP,51.77,0-5 mg/L,Abnormal
+1029,Rajat Yadav,Hypertension,Systolic BP,171.11,90-120 mmHg,Abnormal
+1029,Rajat Yadav,Hypertension,Diastolic BP,93.08,60-80 mmHg,Abnormal
+1030,Amit Gupta,Type 2 Diabetes,Fasting Glucose,171.09,70-100 mg/dL,Abnormal
+1030,Amit Gupta,Type 2 Diabetes,HbA1c,6.18,4-5.6 %,Abnormal
+1030,Amit Gupta,Type 2 Diabetes,BMI,27.32,18.5-24.9,Abnormal
+1031,Varun Arora,Viral Fever,Temperature,40.32,36.1-37.2 °C,Abnormal
+1031,Varun Arora,Viral Fever,WBC Count,11.81,4-11 x10^9/L,Abnormal
+1031,Varun Arora,Viral Fever,CRP,45.26,0-5 mg/L,Abnormal
+1032,Sonia Joshi,Kidney Infection,Creatinine,2.19,0.60-1.30 mg/dL,Abnormal
+1032,Sonia Joshi,Kidney Infection,WBC Count,11.5,4-11 x10^9/L,Abnormal
+1032,Sonia Joshi,Kidney Infection,CRP,59.54,0-5 mg/L,Abnormal
+1033,Sonia Agarwal,Hypertension,Diastolic BP,82.54,60-80 mmHg,Abnormal
+1033,Sonia Agarwal,Hypertension,Systolic BP,177.69,90-120 mmHg,Abnormal
+1034,Amit Joshi,Kidney Infection,Creatinine,2.32,0.60-1.30 mg/dL,Abnormal
+1034,Amit Joshi,Kidney Infection,CRP,43.16,0-5 mg/L,Abnormal
+1034,Amit Joshi,Kidney Infection,WBC Count,11.93,4-11 x10^9/L,Abnormal
+1035,Pallavi Jain,Anemia,Hemoglobin,11.92,12-16 g/dL,Abnormal
+1035,Pallavi Jain,Anemia,Platelet Count,524.0,150-450 x10^9/L,Abnormal
+1036,Tarun Singh,Coronary Artery Disease,Troponin I,0.23,0.00-0.04 ng/mL,Abnormal
+1036,Tarun Singh,Coronary Artery Disease,LDL Cholesterol,104.31,0-100 mg/dL,Abnormal
+1036,Tarun Singh,Coronary Artery Disease,HDL Cholesterol,37.32,40-60 mg/dL,Abnormal
+1037,Muskan Rao,Hypertension,Systolic BP,124.2,90-120 mmHg,Abnormal
+1037,Muskan Rao,Hypertension,Diastolic BP,98.11,60-80 mmHg,Abnormal
+1038,Mohit Agarwal,Coronary Artery Disease,HDL Cholesterol,72.15,40-60 mg/dL,Abnormal
+1038,Mohit Agarwal,Coronary Artery Disease,Troponin I,0.14,0.00-0.04 ng/mL,Abnormal
+1039,Manish Gupta,Anemia,Hemoglobin,9.19,12-16 g/dL,Abnormal
+1039,Manish Gupta,Anemia,Ferritin,226.35,15-150 ng/mL,Abnormal
+1040,Simran Verma,Kidney Infection,Creatinine,1.56,0.60-1.30 mg/dL,Abnormal
+1040,Simran Verma,Kidney Infection,CRP,6.97,0-5 mg/L,Abnormal
+1040,Simran Verma,Kidney Infection,WBC Count,11.97,4-11 x10^9/L,Abnormal
+1041,Harsh Agarwal,Viral Fever,Temperature,39.46,36.1-37.2 °C,Abnormal
+1041,Harsh Agarwal,Viral Fever,CRP,43.63,0-5 mg/L,Abnormal
+1042,Priya Mehta,Migraine,Hemoglobin,10.27,12-16 g/dL,Abnormal
+1043,Sachin Rao,Asthma,Peak Flow,360.38,400-600 L/min,Abnormal
+1044,Vivek Patel,Kidney Infection,WBC Count,11.91,4-11 x10^9/L,Abnormal
+1044,Vivek Patel,Kidney Infection,CRP,7.93,0-5 mg/L,Abnormal
+1045,Swati Iyer,Hypertension,Systolic BP,165.75,90-120 mmHg,Abnormal
+1045,Swati Iyer,Hypertension,Cholesterol,257.95,125-200 mg/dL,Abnormal
+1046,Arjun Mishra,Kidney Infection,CRP,42.42,0-5 mg/L,Abnormal
+1046,Arjun Mishra,Kidney Infection,Creatinine,2.59,0.60-1.30 mg/dL,Abnormal
+1047,Nitin Verma,Hypertension,Diastolic BP,108.28,60-80 mmHg,Abnormal
+1047,Nitin Verma,Hypertension,Cholesterol,231.19,125-200 mg/dL,Abnormal
+1048,Ananya Thakur,Viral Fever,CRP,22.88,0-5 mg/L,Abnormal
+1048,Ananya Thakur,Viral Fever,Temperature,39.64,36.1-37.2 °C,Abnormal
+1049,Swati Mishra,Migraine,Blood Pressure,166.24,90-120 mmHg,Abnormal
+1050,Swati Bhatia,Viral Fever,CRP,47.96,0-5 mg/L,Abnormal
+1050,Swati Bhatia,Viral Fever,Temperature,39.71,36.1-37.2 °C,Abnormal
+1051,Riya Mishra,Gastritis,WBC Count,12.5,4-11 x10^9/L,Abnormal
+1051,Riya Mishra,Gastritis,Hemoglobin,10.82,12-16 g/dL,Abnormal
+1051,Riya Mishra,Gastritis,Amylase,127.09,30-110 U/L,Abnormal
+1052,Vivek Gupta,Anemia,Ferritin,396.37,15-150 ng/mL,Abnormal
+1052,Vivek Gupta,Anemia,Hemoglobin,11.81,12-16 g/dL,Abnormal
+1053,Meera Patel,Hypertension,Cholesterol,232.26,125-200 mg/dL,Abnormal
+1053,Meera Patel,Hypertension,Systolic BP,163.11,90-120 mmHg,Abnormal
+1053,Meera Patel,Hypertension,Diastolic BP,87.66,60-80 mmHg,Abnormal
+1054,Abhishek Mishra,Migraine,Blood Pressure,135.06,90-120 mmHg,Abnormal
+1055,Sumit Mishra,Pneumonia,Oxygen Saturation,90.0,95-100 %,Abnormal
+1056,Abhishek Kumar,Anemia,Ferritin,190.59,15-150 ng/mL,Abnormal
+1057,Tanvi Iyer,Pneumonia,CRP,8.81,0-5 mg/L,Abnormal
+1058,Kritika Agarwal,Asthma,Oxygen Saturation,90.0,95-100 %,Abnormal
+1059,Tanya Yadav,Pneumonia,CRP,35.33,0-5 mg/L,Abnormal
+1060,Vikram Mishra,Kidney Infection,Creatinine,3.05,0.60-1.30 mg/dL,Abnormal
+1060,Vikram Mishra,Kidney Infection,CRP,45.53,0-5 mg/L,Abnormal
+1060,Vikram Mishra,Kidney Infection,WBC Count,13.16,4-11 x10^9/L,Abnormal
+1061,Sachin Agarwal,Gastritis,WBC Count,11.28,4-11 x10^9/L,Abnormal
+1063,Swati Thakur,Pneumonia,Oxygen Saturation,89.0,95-100 %,Abnormal
+1064,Divya Menon,Type 2 Diabetes,HbA1c,5.68,4-5.6 %,Abnormal
+1065,Sakshi Yadav,Gastritis,WBC Count,12.17,4-11 x10^9/L,Abnormal
+1066,Shreya Gupta,Hypertension,Cholesterol,266.99,125-200 mg/dL,Abnormal
+1066,Shreya Gupta,Hypertension,Systolic BP,143.12,90-120 mmHg,Abnormal
+1066,Shreya Gupta,Hypertension,Diastolic BP,91.97,60-80 mmHg,Abnormal
+1067,Sumit Sharma,Asthma,Peak Flow,296.78,400-600 L/min,Abnormal
+1067,Sumit Sharma,Asthma,Oxygen Saturation,90.0,95-100 %,Abnormal
+1068,Varun Patel,Coronary Artery Disease,LDL Cholesterol,123.46,0-100 mg/dL,Abnormal
+1068,Varun Patel,Coronary Artery Disease,Troponin I,0.15,0.00-0.04 ng/mL,Abnormal
+1069,Rajiv Singh,Coronary Artery Disease,HDL Cholesterol,39.44,40-60 mg/dL,Abnormal
+1069,Rajiv Singh,Coronary Artery Disease,Troponin I,0.06,0.00-0.04 ng/mL,Abnormal
+1069,Rajiv Singh,Coronary Artery Disease,LDL Cholesterol,186.3,0-100 mg/dL,Abnormal
+1070,Manish Das,Viral Fever,Temperature,39.63,36.1-37.2 °C,Abnormal
+1070,Manish Das,Viral Fever,CRP,57.85,0-5 mg/L,Abnormal
+1071,Swati Bansal,Anemia,Ferritin,286.96,15-150 ng/mL,Abnormal
+1071,Swati Bansal,Anemia,Hemoglobin,9.01,12-16 g/dL,Abnormal
+1072,Nisha Jain,Pneumonia,CRP,43.24,0-5 mg/L,Abnormal
+1072,Nisha Jain,Pneumonia,Oxygen Saturation,88.0,95-100 %,Abnormal
+1073,Sneha Mishra,Kidney Infection,CRP,40.3,0-5 mg/L,Abnormal
+1073,Sneha Mishra,Kidney Infection,Creatinine,2.13,0.60-1.30 mg/dL,Abnormal
+1074,Meera Agarwal,Viral Fever,CRP,33.01,0-5 mg/L,Abnormal
+1074,Meera Agarwal,Viral Fever,Temperature,40.45,36.1-37.2 °C,Abnormal
+1075,Riya Bansal,Kidney Infection,Creatinine,3.09,0.60-1.30 mg/dL,Abnormal
+1075,Riya Bansal,Kidney Infection,CRP,6.55,0-5 mg/L,Abnormal
+1076,Amit Patel,Asthma,Respiratory Rate,22.0,12-20 breaths/min,Abnormal
+1076,Amit Patel,Asthma,Oxygen Saturation,93.0,95-100 %,Abnormal
+1077,Nikita Das,Gastritis,Amylase,113.36,30-110 U/L,Abnormal
+1078,Rajiv Thakur,Gastritis,WBC Count,17.29,4-11 x10^9/L,Abnormal
+1079,Preeti Chauhan,Coronary Artery Disease,Troponin I,0.3,0.00-0.04 ng/mL,Abnormal
+1079,Preeti Chauhan,Coronary Artery Disease,LDL Cholesterol,190.06,0-100 mg/dL,Abnormal
+1079,Preeti Chauhan,Coronary Artery Disease,HDL Cholesterol,31.34,40-60 mg/dL,Abnormal
+1080,Rajat Iyer,Asthma,Respiratory Rate,25.0,12-20 breaths/min,Abnormal
+1081,Kavya Patel,Asthma,Oxygen Saturation,89.0,95-100 %,Abnormal
+1081,Kavya Patel,Asthma,Respiratory Rate,26.0,12-20 breaths/min,Abnormal
+1082,Neha Verma,Pneumonia,CRP,36.65,0-5 mg/L,Abnormal
+1082,Neha Verma,Pneumonia,Oxygen Saturation,93.0,95-100 %,Abnormal
+1082,Neha Verma,Pneumonia,WBC Count,11.73,4-11 x10^9/L,Abnormal
+1083,Radhika Chauhan,Pneumonia,CRP,63.76,0-5 mg/L,Abnormal
+1084,Gaurav Rao,Viral Fever,Temperature,37.32,36.1-37.2 °C,Abnormal
+1084,Gaurav Rao,Viral Fever,CRP,33.06,0-5 mg/L,Abnormal
+1085,Deepak Singh,Viral Fever,CRP,53.7,0-5 mg/L,Abnormal
+1085,Deepak Singh,Viral Fever,WBC Count,14.43,4-11 x10^9/L,Abnormal
+1085,Deepak Singh,Viral Fever,Temperature,36.02,36.1-37.2 °C,Abnormal
+1086,Ishita Menon,Coronary Artery Disease,Troponin I,0.14,0.00-0.04 ng/mL,Abnormal
+1086,Ishita Menon,Coronary Artery Disease,HDL Cholesterol,25.03,40-60 mg/dL,Abnormal
+1086,Ishita Menon,Coronary Artery Disease,LDL Cholesterol,203.7,0-100 mg/dL,Abnormal
+1087,Ankit Patel,Type 2 Diabetes,HbA1c,10.1,4-5.6 %,Abnormal
+1087,Ankit Patel,Type 2 Diabetes,Fasting Glucose,107.47,70-100 mg/dL,Abnormal
+1088,Yash Chauhan,Coronary Artery Disease,LDL Cholesterol,159.68,0-100 mg/dL,Abnormal
+1088,Yash Chauhan,Coronary Artery Disease,Troponin I,0.2,0.00-0.04 ng/mL,Abnormal
+1088,Yash Chauhan,Coronary Artery Disease,HDL Cholesterol,27.59,40-60 mg/dL,Abnormal
+1089,Ananya Thakur,Coronary Artery Disease,Troponin I,0.21,0.00-0.04 ng/mL,Abnormal
+1090,Kunal Joshi,Type 2 Diabetes,HbA1c,7.62,4-5.6 %,Abnormal
+1090,Kunal Joshi,Type 2 Diabetes,BMI,25.46,18.5-24.9,Abnormal
+1090,Kunal Joshi,Type 2 Diabetes,Fasting Glucose,66.25,70-100 mg/dL,Abnormal
+1091,Sneha Singh,Coronary Artery Disease,Troponin I,0.15,0.00-0.04 ng/mL,Abnormal
+1091,Sneha Singh,Coronary Artery Disease,HDL Cholesterol,29.47,40-60 mg/dL,Abnormal
+1092,Arjun Verma,Kidney Infection,Creatinine,3.14,0.60-1.30 mg/dL,Abnormal
+1092,Arjun Verma,Kidney Infection,CRP,54.26,0-5 mg/L,Abnormal
+1093,Sumit Thakur,Viral Fever,CRP,32.07,0-5 mg/L,Abnormal
+1093,Sumit Thakur,Viral Fever,Temperature,35.84,36.1-37.2 °C,Abnormal
+1093,Sumit Thakur,Viral Fever,WBC Count,12.75,4-11 x10^9/L,Abnormal
+1094,Sonia Joshi,Viral Fever,WBC Count,16.8,4-11 x10^9/L,Abnormal
+1094,Sonia Joshi,Viral Fever,Temperature,38.7,36.1-37.2 °C,Abnormal
+1094,Sonia Joshi,Viral Fever,CRP,26.82,0-5 mg/L,Abnormal
+1095,Aditi Yadav,Type 2 Diabetes,HbA1c,9.01,4-5.6 %,Abnormal
+1095,Aditi Yadav,Type 2 Diabetes,BMI,28.2,18.5-24.9,Abnormal
+1095,Aditi Yadav,Type 2 Diabetes,Fasting Glucose,124.52,70-100 mg/dL,Abnormal
+1096,Tanvi Agarwal,Gastritis,Hemoglobin,11.08,12-16 g/dL,Abnormal
+1096,Tanvi Agarwal,Gastritis,WBC Count,11.3,4-11 x10^9/L,Abnormal
+1098,Nikita Chauhan,Asthma,Oxygen Saturation,94.0,95-100 %,Abnormal
+1098,Nikita Chauhan,Asthma,Peak Flow,295.1,400-600 L/min,Abnormal
+1099,Kavya Sharma,Pneumonia,CRP,68.93,0-5 mg/L,Abnormal
+1100,Naveen Singh,Type 2 Diabetes,Fasting Glucose,212.94,70-100 mg/dL,Abnormal
+1100,Naveen Singh,Type 2 Diabetes,HbA1c,9.12,4-5.6 %,Abnormal
+1100,Naveen Singh,Type 2 Diabetes,BMI,17.32,18.5-24.9,Abnormal
+1101,Aditi Rao,Asthma,Peak Flow,265.93,400-600 L/min,Abnormal
+1101,Aditi Rao,Asthma,Oxygen Saturation,89.0,95-100 %,Abnormal
+1101,Aditi Rao,Asthma,Respiratory Rate,26.0,12-20 breaths/min,Abnormal
+1103,Tanvi Menon,Pneumonia,CRP,6.78,0-5 mg/L,Abnormal
+1103,Tanvi Menon,Pneumonia,WBC Count,16.81,4-11 x10^9/L,Abnormal
+1104,Sneha Yadav,Asthma,Respiratory Rate,22.0,12-20 breaths/min,Abnormal
+1105,Shivani Rao,Migraine,Hemoglobin,9.65,12-16 g/dL,Abnormal
+1106,Mansi Singh,Type 2 Diabetes,BMI,29.66,18.5-24.9,Abnormal
+1106,Mansi Singh,Type 2 Diabetes,HbA1c,8.45,4-5.6 %,Abnormal
+1107,Vikram Rao,Kidney Infection,CRP,11.89,0-5 mg/L,Abnormal
+1107,Vikram Rao,Kidney Infection,Creatinine,3.36,0.60-1.30 mg/dL,Abnormal
+1108,Tanya Jain,Anemia,Ferritin,350.65,15-150 ng/mL,Abnormal
+1110,Akash Malhotra,Hypertension,Diastolic BP,58.05,60-80 mmHg,Abnormal
+1110,Akash Malhotra,Hypertension,Cholesterol,257.5,125-200 mg/dL,Abnormal
+1111,Simran Kapoor,Viral Fever,Temperature,38.19,36.1-37.2 °C,Abnormal
+1112,Pallavi Thakur,Gastritis,WBC Count,16.8,4-11 x10^9/L,Abnormal
+1112,Pallavi Thakur,Gastritis,Hemoglobin,10.34,12-16 g/dL,Abnormal
+1113,Swati Sharma,Coronary Artery Disease,LDL Cholesterol,122.44,0-100 mg/dL,Abnormal
+1113,Swati Sharma,Coronary Artery Disease,Troponin I,0.22,0.00-0.04 ng/mL,Abnormal
+1115,Gaurav Menon,Viral Fever,WBC Count,15.99,4-11 x10^9/L,Abnormal
+1115,Gaurav Menon,Viral Fever,Temperature,39.44,36.1-37.2 °C,Abnormal
+1115,Gaurav Menon,Viral Fever,CRP,18.99,0-5 mg/L,Abnormal
+1116,Varun Thakur,Viral Fever,CRP,22.45,0-5 mg/L,Abnormal
+1116,Varun Thakur,Viral Fever,Temperature,39.49,36.1-37.2 °C,Abnormal
+1117,Arjun Bansal,Asthma,Respiratory Rate,26.0,12-20 breaths/min,Abnormal
+1118,Tarun Jain,Coronary Artery Disease,LDL Cholesterol,155.39,0-100 mg/dL,Abnormal
+1119,Tanya Bhatia,Pneumonia,CRP,68.0,0-5 mg/L,Abnormal
+1119,Tanya Bhatia,Pneumonia,WBC Count,13.91,4-11 x10^9/L,Abnormal
+1119,Tanya Bhatia,Pneumonia,Oxygen Saturation,87.0,95-100 %,Abnormal
+1120,Tanvi Mehta,Gastritis,Hemoglobin,16.29,12-16 g/dL,Abnormal
+1121,Sandeep Agarwal,Migraine,Blood Pressure,149.83,90-120 mmHg,Abnormal
+1122,Abhishek Bansal,Viral Fever,CRP,35.72,0-5 mg/L,Abnormal
+1122,Abhishek Bansal,Viral Fever,WBC Count,3.93,4-11 x10^9/L,Abnormal
+1122,Abhishek Bansal,Viral Fever,Temperature,38.91,36.1-37.2 °C,Abnormal
+1123,Rahul Sharma,Viral Fever,Temperature,39.8,36.1-37.2 °C,Abnormal
+1123,Rahul Sharma,Viral Fever,WBC Count,16.89,4-11 x10^9/L,Abnormal
+1123,Rahul Sharma,Viral Fever,CRP,23.88,0-5 mg/L,Abnormal
+1124,Nikita Mishra,Pneumonia,CRP,19.07,0-5 mg/L,Abnormal
+1125,Deepak Iyer,Migraine,Hemoglobin,11.36,12-16 g/dL,Abnormal
+1127,Sneha Kapoor,Type 2 Diabetes,BMI,32.88,18.5-24.9,Abnormal
+1127,Sneha Kapoor,Type 2 Diabetes,HbA1c,6.47,4-5.6 %,Abnormal
+1128,Shreya Patel,Gastritis,Amylase,178.55,30-110 U/L,Abnormal
+1129,Pankaj Yadav,Pneumonia,CRP,8.03,0-5 mg/L,Abnormal
+1129,Pankaj Yadav,Pneumonia,Oxygen Saturation,87.0,95-100 %,Abnormal
+1129,Pankaj Yadav,Pneumonia,WBC Count,14.91,4-11 x10^9/L,Abnormal
+1130,Naveen Kapoor,Pneumonia,CRP,30.09,0-5 mg/L,Abnormal
+1131,Payal Mehta,Hypertension,Cholesterol,123.49,125-200 mg/dL,Abnormal
+1131,Payal Mehta,Hypertension,Diastolic BP,58.55,60-80 mmHg,Abnormal
+1131,Payal Mehta,Hypertension,Systolic BP,171.22,90-120 mmHg,Abnormal
+1132,Priya Mehta,Hypertension,Cholesterol,270.76,125-200 mg/dL,Abnormal
+1132,Priya Mehta,Hypertension,Diastolic BP,57.79,60-80 mmHg,Abnormal
+1133,Rahul Chauhan,Anemia,Platelet Count,113.0,150-450 x10^9/L,Abnormal
+1133,Rahul Chauhan,Anemia,Ferritin,276.45,15-150 ng/mL,Abnormal
+1133,Rahul Chauhan,Anemia,Hemoglobin,9.06,12-16 g/dL,Abnormal
+1134,Sneha Jain,Hypertension,Systolic BP,130.14,90-120 mmHg,Abnormal
+1134,Sneha Jain,Hypertension,Cholesterol,218.26,125-200 mg/dL,Abnormal
+1135,Ananya Gupta,Viral Fever,CRP,25.01,0-5 mg/L,Abnormal
+1135,Ananya Gupta,Viral Fever,WBC Count,11.26,4-11 x10^9/L,Abnormal
+1135,Ananya Gupta,Viral Fever,Temperature,36.09,36.1-37.2 °C,Abnormal
+1136,Sakshi Arora,Gastritis,Hemoglobin,10.5,12-16 g/dL,Abnormal
+1136,Sakshi Arora,Gastritis,Amylase,162.12,30-110 U/L,Abnormal
+1137,Yash Chauhan,Migraine,Blood Pressure,133.56,90-120 mmHg,Abnormal
+1139,Naveen Gupta,Migraine,Blood Pressure,169.97,90-120 mmHg,Abnormal
+1139,Naveen Gupta,Migraine,Hemoglobin,16.3,12-16 g/dL,Abnormal
+1140,Varun Iyer,Type 2 Diabetes,HbA1c,7.7,4-5.6 %,Abnormal
+1140,Varun Iyer,Type 2 Diabetes,BMI,32.03,18.5-24.9,Abnormal
+1140,Varun Iyer,Type 2 Diabetes,Fasting Glucose,179.24,70-100 mg/dL,Abnormal
+1141,Rajiv Arora,Kidney Infection,CRP,65.5,0-5 mg/L,Abnormal
+1141,Rajiv Arora,Kidney Infection,WBC Count,17.87,4-11 x10^9/L,Abnormal
+1142,Meera Singh,Anemia,Platelet Count,511.0,150-450 x10^9/L,Abnormal
+1143,Mansi Iyer,Viral Fever,CRP,32.76,0-5 mg/L,Abnormal
+1143,Mansi Iyer,Viral Fever,WBC Count,3.57,4-11 x10^9/L,Abnormal
+1144,Priya Mehta,Viral Fever,Temperature,38.27,36.1-37.2 °C,Abnormal
+1144,Priya Mehta,Viral Fever,WBC Count,16.77,4-11 x10^9/L,Abnormal
+1145,Rajat Nair,Migraine,Blood Pressure,157.54,90-120 mmHg,Abnormal
+1145,Rajat Nair,Migraine,Hemoglobin,11.43,12-16 g/dL,Abnormal
+1146,Kritika Menon,Hypertension,Systolic BP,166.18,90-120 mmHg,Abnormal
+1146,Kritika Menon,Hypertension,Cholesterol,257.71,125-200 mg/dL,Abnormal
+1146,Kritika Menon,Hypertension,Diastolic BP,107.83,60-80 mmHg,Abnormal
+1147,Nitin Chauhan,Gastritis,Hemoglobin,11.42,12-16 g/dL,Abnormal
+1147,Nitin Chauhan,Gastritis,Amylase,176.26,30-110 U/L,Abnormal
+1148,Aditi Singh,Viral Fever,CRP,10.87,0-5 mg/L,Abnormal
+1148,Aditi Singh,Viral Fever,WBC Count,17.53,4-11 x10^9/L,Abnormal
+1148,Aditi Singh,Viral Fever,Temperature,39.06,36.1-37.2 °C,Abnormal
+1149,Pallavi Verma,Asthma,Peak Flow,372.73,400-600 L/min,Abnormal
+1149,Pallavi Verma,Asthma,Respiratory Rate,24.0,12-20 breaths/min,Abnormal
+1149,Pallavi Verma,Asthma,Oxygen Saturation,90.0,95-100 %,Abnormal
+1150,Kavya Sharma,Migraine,Hemoglobin,10.37,12-16 g/dL,Abnormal
+1151,Ananya Saini,Migraine,Hemoglobin,10.05,12-16 g/dL,Abnormal
+1152,Divya Saini,Coronary Artery Disease,Troponin I,0.14,0.00-0.04 ng/mL,Abnormal
+1152,Divya Saini,Coronary Artery Disease,HDL Cholesterol,38.26,40-60 mg/dL,Abnormal
+1153,Tanvi Das,Type 2 Diabetes,Fasting Glucose,176.66,70-100 mg/dL,Abnormal
+1153,Tanvi Das,Type 2 Diabetes,BMI,17.91,18.5-24.9,Abnormal
+1153,Tanvi Das,Type 2 Diabetes,HbA1c,7.13,4-5.6 %,Abnormal
+1154,Muskan Gupta,Coronary Artery Disease,Troponin I,0.27,0.00-0.04 ng/mL,Abnormal
+1154,Muskan Gupta,Coronary Artery Disease,LDL Cholesterol,112.68,0-100 mg/dL,Abnormal
+1155,Amit Nair,Kidney Infection,CRP,31.86,0-5 mg/L,Abnormal
+1155,Amit Nair,Kidney Infection,Creatinine,2.9,0.60-1.30 mg/dL,Abnormal
+1155,Amit Nair,Kidney Infection,WBC Count,3.5,4-11 x10^9/L,Abnormal
+1156,Sandeep Joshi,Pneumonia,CRP,6.4,0-5 mg/L,Abnormal
+1156,Sandeep Joshi,Pneumonia,Oxygen Saturation,88.0,95-100 %,Abnormal
+1157,Sneha Agarwal,Viral Fever,CRP,35.84,0-5 mg/L,Abnormal
+1157,Sneha Agarwal,Viral Fever,Temperature,38.68,36.1-37.2 °C,Abnormal
+1158,Ananya Rao,Coronary Artery Disease,HDL Cholesterol,35.28,40-60 mg/dL,Abnormal
+1159,Sneha Chauhan,Hypertension,Systolic BP,125.36,90-120 mmHg,Abnormal
+1160,Sneha Menon,Gastritis,Amylase,25.59,30-110 U/L,Abnormal
+1161,Abhishek Singh,Type 2 Diabetes,HbA1c,5.74,4-5.6 %,Abnormal
+1161,Abhishek Singh,Type 2 Diabetes,BMI,29.13,18.5-24.9,Abnormal
+1161,Abhishek Singh,Type 2 Diabetes,Fasting Glucose,216.44,70-100 mg/dL,Abnormal
+1162,Sneha Nair,Kidney Infection,Creatinine,1.91,0.60-1.30 mg/dL,Abnormal
+1162,Sneha Nair,Kidney Infection,WBC Count,16.42,4-11 x10^9/L,Abnormal
+1162,Sneha Nair,Kidney Infection,CRP,18.92,0-5 mg/L,Abnormal
+1163,Pankaj Jain,Type 2 Diabetes,HbA1c,6.72,4-5.6 %,Abnormal
+1163,Pankaj Jain,Type 2 Diabetes,Fasting Glucose,134.1,70-100 mg/dL,Abnormal
+1164,Shivani Thakur,Kidney Infection,WBC Count,11.46,4-11 x10^9/L,Abnormal
+1164,Shivani Thakur,Kidney Infection,CRP,48.9,0-5 mg/L,Abnormal
+1165,Simran Arora,Coronary Artery Disease,Troponin I,0.29,0.00-0.04 ng/mL,Abnormal
+1165,Simran Arora,Coronary Artery Disease,LDL Cholesterol,148.46,0-100 mg/dL,Abnormal
+1166,Ankit Thakur,Anemia,Hemoglobin,10.19,12-16 g/dL,Abnormal
+1167,Kritika Rao,Asthma,Oxygen Saturation,90.0,95-100 %,Abnormal
+1168,Vivek Yadav,Viral Fever,Temperature,36.0,36.1-37.2 °C,Abnormal
+1168,Vivek Yadav,Viral Fever,CRP,5.16,0-5 mg/L,Abnormal
+1168,Vivek Yadav,Viral Fever,WBC Count,13.25,4-11 x10^9/L,Abnormal
+1169,Rajat Chauhan,Migraine,Hemoglobin,11.4,12-16 g/dL,Abnormal
+1169,Rajat Chauhan,Migraine,Blood Pressure,154.59,90-120 mmHg,Abnormal
+1170,Kritika Bhatia,Asthma,Peak Flow,616.86,400-600 L/min,Abnormal
+1171,Harsh Thakur,Gastritis,Hemoglobin,10.11,12-16 g/dL,Abnormal
+1171,Harsh Thakur,Gastritis,Amylase,116.13,30-110 U/L,Abnormal
+1172,Naveen Patel,Coronary Artery Disease,Troponin I,0.26,0.00-0.04 ng/mL,Abnormal
+1172,Naveen Patel,Coronary Artery Disease,HDL Cholesterol,69.01,40-60 mg/dL,Abnormal
+1172,Naveen Patel,Coronary Artery Disease,LDL Cholesterol,191.68,0-100 mg/dL,Abnormal
+1173,Akash Nair,Coronary Artery Disease,HDL Cholesterol,38.77,40-60 mg/dL,Abnormal
+1173,Akash Nair,Coronary Artery Disease,Troponin I,0.05,0.00-0.04 ng/mL,Abnormal
+1174,Naveen Mishra,Asthma,Oxygen Saturation,89.0,95-100 %,Abnormal
+1175,Muskan Bansal,Migraine,Blood Pressure,155.39,90-120 mmHg,Abnormal
+1175,Muskan Bansal,Migraine,Hemoglobin,11.1,12-16 g/dL,Abnormal
+1176,Payal Kumar,Hypertension,Systolic BP,177.68,90-120 mmHg,Abnormal
+1177,Sneha Arora,Type 2 Diabetes,HbA1c,9.44,4-5.6 %,Abnormal
+1178,Kavya Agarwal,Asthma,Oxygen Saturation,90.0,95-100 %,Abnormal
+1178,Kavya Agarwal,Asthma,Peak Flow,374.45,400-600 L/min,Abnormal
+1179,Ananya Singh,Viral Fever,CRP,50.06,0-5 mg/L,Abnormal
+1179,Ananya Singh,Viral Fever,WBC Count,15.55,4-11 x10^9/L,Abnormal
+1180,Rajiv Mishra,Viral Fever,Temperature,40.11,36.1-37.2 °C,Abnormal
+1180,Rajiv Mishra,Viral Fever,WBC Count,13.57,4-11 x10^9/L,Abnormal
+1180,Rajiv Mishra,Viral Fever,CRP,16.8,0-5 mg/L,Abnormal
+1181,Amit Bansal,Anemia,Hemoglobin,11.9,12-16 g/dL,Abnormal
+1182,Mansi Rao,Migraine,Blood Pressure,157.01,90-120 mmHg,Abnormal
+1182,Mansi Rao,Migraine,Hemoglobin,10.94,12-16 g/dL,Abnormal
+1183,Harsh Kapoor,Viral Fever,WBC Count,3.74,4-11 x10^9/L,Abnormal
+1183,Harsh Kapoor,Viral Fever,Temperature,39.81,36.1-37.2 °C,Abnormal
+1183,Harsh Kapoor,Viral Fever,CRP,46.9,0-5 mg/L,Abnormal
+1184,Naveen Agarwal,Gastritis,Hemoglobin,9.15,12-16 g/dL,Abnormal
+1185,Riya Verma,Hypertension,Diastolic BP,88.06,60-80 mmHg,Abnormal
+1186,Neha Agarwal,Coronary Artery Disease,HDL Cholesterol,69.77,40-60 mg/dL,Abnormal
+1186,Neha Agarwal,Coronary Artery Disease,LDL Cholesterol,187.74,0-100 mg/dL,Abnormal
+1186,Neha Agarwal,Coronary Artery Disease,Troponin I,0.14,0.00-0.04 ng/mL,Abnormal
+1187,Pankaj Bansal,Migraine,Blood Pressure,136.76,90-120 mmHg,Abnormal
+1187,Pankaj Bansal,Migraine,Hemoglobin,9.06,12-16 g/dL,Abnormal
+1188,Nisha Nair,Type 2 Diabetes,BMI,30.0,18.5-24.9,Abnormal
+1188,Nisha Nair,Type 2 Diabetes,Fasting Glucose,139.67,70-100 mg/dL,Abnormal
+1188,Nisha Nair,Type 2 Diabetes,HbA1c,6.52,4-5.6 %,Abnormal
+1189,Tanya Singh,Kidney Infection,CRP,18.65,0-5 mg/L,Abnormal
+1189,Tanya Singh,Kidney Infection,WBC Count,13.67,4-11 x10^9/L,Abnormal
+1189,Tanya Singh,Kidney Infection,Creatinine,3.18,0.60-1.30 mg/dL,Abnormal
+1190,Nisha Chauhan,Kidney Infection,Creatinine,3.2,0.60-1.30 mg/dL,Abnormal
+1190,Nisha Chauhan,Kidney Infection,CRP,56.48,0-5 mg/L,Abnormal
+1190,Nisha Chauhan,Kidney Infection,WBC Count,15.04,4-11 x10^9/L,Abnormal
+1191,Nisha Nair,Hypertension,Cholesterol,235.41,125-200 mg/dL,Abnormal
+1191,Nisha Nair,Hypertension,Diastolic BP,91.05,60-80 mmHg,Abnormal
+1191,Nisha Nair,Hypertension,Systolic BP,179.77,90-120 mmHg,Abnormal
+1192,Vikram Kapoor,Kidney Infection,WBC Count,14.05,4-11 x10^9/L,Abnormal
+1192,Vikram Kapoor,Kidney Infection,CRP,41.02,0-5 mg/L,Abnormal
+1192,Vikram Kapoor,Kidney Infection,Creatinine,3.48,0.60-1.30 mg/dL,Abnormal
+1193,Nisha Bansal,Type 2 Diabetes,Fasting Glucose,205.51,70-100 mg/dL,Abnormal
+1193,Nisha Bansal,Type 2 Diabetes,HbA1c,8.53,4-5.6 %,Abnormal
+1193,Nisha Bansal,Type 2 Diabetes,BMI,26.64,18.5-24.9,Abnormal
+1194,Meera Singh,Pneumonia,Oxygen Saturation,87.0,95-100 %,Abnormal
+1194,Meera Singh,Pneumonia,CRP,21.06,0-5 mg/L,Abnormal
+1195,Kritika Joshi,Asthma,Oxygen Saturation,91.0,95-100 %,Abnormal
+1196,Sandeep Gupta,Pneumonia,CRP,47.05,0-5 mg/L,Abnormal
+1196,Sandeep Gupta,Pneumonia,Oxygen Saturation,92.0,95-100 %,Abnormal
+1197,Preeti Gupta,Coronary Artery Disease,HDL Cholesterol,69.47,40-60 mg/dL,Abnormal
+1197,Preeti Gupta,Coronary Artery Disease,Troponin I,0.16,0.00-0.04 ng/mL,Abnormal
+1197,Preeti Gupta,Coronary Artery Disease,LDL Cholesterol,190.12,0-100 mg/dL,Abnormal
+1198,Muskan Kapoor,Asthma,Respiratory Rate,11.0,12-20 breaths/min,Abnormal
+1198,Muskan Kapoor,Asthma,Peak Flow,304.95,400-600 L/min,Abnormal
+1199,Sneha Iyer,Viral Fever,CRP,51.81,0-5 mg/L,Abnormal
+1200,Kritika Mishra,Pneumonia,CRP,25.42,0-5 mg/L,Abnormal
+1200,Kritika Mishra,Pneumonia,Oxygen Saturation,87.0,95-100 %,Abnormal
+1201,Simran Agarwal,Pneumonia,WBC Count,14.78,4-11 x10^9/L,Abnormal
+1201,Simran Agarwal,Pneumonia,CRP,10.79,0-5 mg/L,Abnormal
+1202,Amit Kumar,Pneumonia,Oxygen Saturation,92.0,95-100 %,Abnormal
+1202,Amit Kumar,Pneumonia,CRP,38.45,0-5 mg/L,Abnormal
+1202,Amit Kumar,Pneumonia,WBC Count,3.07,4-11 x10^9/L,Abnormal
+1203,Mansi Gupta,Asthma,Respiratory Rate,28.0,12-20 breaths/min,Abnormal
+1204,Amit Jain,Viral Fever,CRP,13.96,0-5 mg/L,Abnormal
+1204,Amit Jain,Viral Fever,Temperature,39.92,36.1-37.2 °C,Abnormal
+1205,Naveen Sharma,Hypertension,Diastolic BP,58.59,60-80 mmHg,Abnormal
+1205,Naveen Sharma,Hypertension,Systolic BP,175.36,90-120 mmHg,Abnormal
+1206,Rahul Jain,Coronary Artery Disease,HDL Cholesterol,69.4,40-60 mg/dL,Abnormal
+1206,Rahul Jain,Coronary Artery Disease,LDL Cholesterol,209.32,0-100 mg/dL,Abnormal
+1206,Rahul Jain,Coronary Artery Disease,Troponin I,0.11,0.00-0.04 ng/mL,Abnormal
+1207,Ananya Das,Pneumonia,CRP,75.87,0-5 mg/L,Abnormal
+1207,Ananya Das,Pneumonia,WBC Count,16.77,4-11 x10^9/L,Abnormal
+1207,Ananya Das,Pneumonia,Oxygen Saturation,92.0,95-100 %,Abnormal
+1208,Mohit Das,Kidney Infection,Creatinine,2.7,0.60-1.30 mg/dL,Abnormal
+1208,Mohit Das,Kidney Infection,CRP,41.48,0-5 mg/L,Abnormal
+1209,Mohit Kapoor,Type 2 Diabetes,BMI,33.65,18.5-24.9,Abnormal
+1209,Mohit Kapoor,Type 2 Diabetes,HbA1c,6.03,4-5.6 %,Abnormal
+1209,Mohit Kapoor,Type 2 Diabetes,Fasting Glucose,147.88,70-100 mg/dL,Abnormal
+1210,Sakshi Arora,Asthma,Respiratory Rate,23.0,12-20 breaths/min,Abnormal
+1210,Sakshi Arora,Asthma,Peak Flow,257.9,400-600 L/min,Abnormal
+1212,Vikram Saini,Gastritis,Amylase,118.87,30-110 U/L,Abnormal
+1213,Radhika Arora,Coronary Artery Disease,LDL Cholesterol,102.41,0-100 mg/dL,Abnormal
+1213,Radhika Arora,Coronary Artery Disease,Troponin I,0.24,0.00-0.04 ng/mL,Abnormal
+1214,Shivani Bansal,Kidney Infection,WBC Count,13.55,4-11 x10^9/L,Abnormal
+1214,Shivani Bansal,Kidney Infection,Creatinine,1.39,0.60-1.30 mg/dL,Abnormal
+1215,Komal Malhotra,Migraine,Hemoglobin,9.67,12-16 g/dL,Abnormal
+1216,Sandeep Singh,Kidney Infection,CRP,66.49,0-5 mg/L,Abnormal
+1216,Sandeep Singh,Kidney Infection,WBC Count,14.69,4-11 x10^9/L,Abnormal
+1217,Muskan Verma,Hypertension,Diastolic BP,109.38,60-80 mmHg,Abnormal
+1218,Simran Arora,Kidney Infection,Creatinine,1.58,0.60-1.30 mg/dL,Abnormal
+1218,Simran Arora,Kidney Infection,CRP,47.54,0-5 mg/L,Abnormal
+1220,Harsh Yadav,Migraine,Hemoglobin,11.57,12-16 g/dL,Abnormal
+1221,Shreya Jain,Hypertension,Diastolic BP,92.94,60-80 mmHg,Abnormal
+1221,Shreya Jain,Hypertension,Systolic BP,127.96,90-120 mmHg,Abnormal
+1222,Simran Thakur,Hypertension,Systolic BP,178.34,90-120 mmHg,Abnormal
+1222,Simran Thakur,Hypertension,Cholesterol,255.1,125-200 mg/dL,Abnormal
+1223,Yash Das,Migraine,Blood Pressure,152.33,90-120 mmHg,Abnormal
+1224,Akash Kumar,Anemia,Ferritin,356.16,15-150 ng/mL,Abnormal
+1224,Akash Kumar,Anemia,Hemoglobin,8.07,12-16 g/dL,Abnormal
+1225,Abhishek Iyer,Anemia,Ferritin,251.11,15-150 ng/mL,Abnormal
+1226,Riya Kapoor,Anemia,Ferritin,160.1,15-150 ng/mL,Abnormal
+1227,Preeti Patel,Kidney Infection,Creatinine,3.06,0.60-1.30 mg/dL,Abnormal
+1227,Preeti Patel,Kidney Infection,CRP,60.92,0-5 mg/L,Abnormal
+1228,Varun Thakur,Migraine,Blood Pressure,167.61,90-120 mmHg,Abnormal
+1228,Varun Thakur,Migraine,Hemoglobin,10.67,12-16 g/dL,Abnormal
+1229,Preeti Gupta,Gastritis,Amylase,149.2,30-110 U/L,Abnormal
+1230,Sonia Iyer,Pneumonia,CRP,78.46,0-5 mg/L,Abnormal
+1230,Sonia Iyer,Pneumonia,WBC Count,3.27,4-11 x10^9/L,Abnormal
+1231,Vivek Nair,Asthma,Respiratory Rate,29.0,12-20 breaths/min,Abnormal
+1232,Aarav Iyer,Migraine,Hemoglobin,16.13,12-16 g/dL,Abnormal
+1233,Nikita Verma,Viral Fever,WBC Count,13.75,4-11 x10^9/L,Abnormal
+1233,Nikita Verma,Viral Fever,CRP,22.12,0-5 mg/L,Abnormal
+1233,Nikita Verma,Viral Fever,Temperature,37.93,36.1-37.2 °C,Abnormal
+1234,Yash Mehta,Migraine,Hemoglobin,11.56,12-16 g/dL,Abnormal
+1234,Yash Mehta,Migraine,Blood Pressure,167.15,90-120 mmHg,Abnormal
+1237,Nikita Joshi,Hypertension,Systolic BP,158.14,90-120 mmHg,Abnormal
+1237,Nikita Joshi,Hypertension,Diastolic BP,57.56,60-80 mmHg,Abnormal
+1237,Nikita Joshi,Hypertension,Cholesterol,221.32,125-200 mg/dL,Abnormal
+1238,Tanvi Mishra,Type 2 Diabetes,Fasting Glucose,214.4,70-100 mg/dL,Abnormal
+1238,Tanvi Mishra,Type 2 Diabetes,BMI,17.08,18.5-24.9,Abnormal
+1238,Tanvi Mishra,Type 2 Diabetes,HbA1c,8.92,4-5.6 %,Abnormal
+1239,Sonia Kapoor,Coronary Artery Disease,Troponin I,0.25,0.00-0.04 ng/mL,Abnormal
+1240,Divya Bhatia,Coronary Artery Disease,LDL Cholesterol,122.8,0-100 mg/dL,Abnormal
+1240,Divya Bhatia,Coronary Artery Disease,Troponin I,0.21,0.00-0.04 ng/mL,Abnormal
+1241,Pooja Saini,Coronary Artery Disease,LDL Cholesterol,205.57,0-100 mg/dL,Abnormal
+1241,Pooja Saini,Coronary Artery Disease,Troponin I,0.05,0.00-0.04 ng/mL,Abnormal
+1242,Deepak Kumar,Pneumonia,CRP,74.87,0-5 mg/L,Abnormal
+1242,Deepak Kumar,Pneumonia,WBC Count,12.49,4-11 x10^9/L,Abnormal
+1243,Kritika Iyer,Asthma,Peak Flow,618.48,400-600 L/min,Abnormal
+1243,Kritika Iyer,Asthma,Oxygen Saturation,90.0,95-100 %,Abnormal
+1243,Kritika Iyer,Asthma,Respiratory Rate,24.0,12-20 breaths/min,Abnormal
+1244,Rohan Iyer,Asthma,Respiratory Rate,25.0,12-20 breaths/min,Abnormal
+1245,Vivek Patel,Type 2 Diabetes,BMI,32.36,18.5-24.9,Abnormal
+1245,Vivek Patel,Type 2 Diabetes,Fasting Glucose,146.02,70-100 mg/dL,Abnormal
+1246,Sneha Menon,Anemia,Hemoglobin,9.9,12-16 g/dL,Abnormal
+1246,Sneha Menon,Anemia,Platelet Count,453.0,150-450 x10^9/L,Abnormal
+1246,Sneha Menon,Anemia,Ferritin,393.58,15-150 ng/mL,Abnormal
+1247,Tanvi Sharma,Viral Fever,CRP,32.7,0-5 mg/L,Abnormal
+1248,Kunal Gupta,Hypertension,Cholesterol,245.49,125-200 mg/dL,Abnormal
+1248,Kunal Gupta,Hypertension,Diastolic BP,98.94,60-80 mmHg,Abnormal
+1249,Nisha Saini,Migraine,Hemoglobin,11.91,12-16 g/dL,Abnormal
+1249,Nisha Saini,Migraine,Blood Pressure,168.07,90-120 mmHg,Abnormal
+1250,Kavya Mehta,Anemia,Hemoglobin,9.33,12-16 g/dL,Abnormal
+1250,Kavya Mehta,Anemia,Ferritin,348.85,15-150 ng/mL,Abnormal

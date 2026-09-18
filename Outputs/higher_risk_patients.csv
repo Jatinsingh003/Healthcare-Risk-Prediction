@@ -1,0 +1,34 @@
+patient_id,name,age,gender,diagnosis_name,outcome_name,abnormal_lab_count,total_lab_tests,length_of_stay,treatment_cost,predicted_risk_label,risk_probability_percent
+1010,Ananya Patel,58,F,Asthma,Referred,3,3,7.0,31223,Higher Risk,99.5
+1022,Nitin Thakur,80,M,Asthma,Referred,2,3,12.0,55676,Higher Risk,99.5
+1242,Deepak Kumar,79,M,Pneumonia,Deceased,2,3,12.0,61666,Higher Risk,99.5
+1120,Tanvi Mehta,50,F,Gastritis,Referred,1,3,12.0,31388,Higher Risk,99.0
+1082,Neha Verma,55,F,Pneumonia,Referred,3,3,2.0,34931,Higher Risk,99.0
+1127,Sneha Kapoor,64,F,Type 2 Diabetes,Referred,2,3,9.0,40017,Higher Risk,98.5
+1174,Naveen Mishra,29,M,Asthma,Referred,1,3,6.0,26330,Higher Risk,98.5
+1181,Amit Bansal,26,M,Anemia,Deceased,1,3,13.0,56763,Higher Risk,98.0
+1053,Meera Patel,36,F,Hypertension,Deceased,3,3,4.0,31273,Higher Risk,98.0
+1073,Sneha Mishra,52,F,Kidney Infection,Referred,2,3,14.0,59510,Higher Risk,98.0
+1226,Riya Kapoor,53,F,Anemia,Referred,1,3,4.0,27493,Higher Risk,98.0
+1202,Amit Kumar,56,M,Pneumonia,Referred,3,3,6.0,41072,Higher Risk,98.0
+1250,Kavya Mehta,68,F,Anemia,Deceased,2,3,12.0,32262,Higher Risk,98.0
+1155,Amit Nair,42,M,Kidney Infection,Referred,3,3,12.0,43083,Higher Risk,97.5
+1083,Radhika Chauhan,61,F,Pneumonia,Referred,1,3,5.0,42214,Higher Risk,97.5
+1241,Pooja Saini,82,F,Coronary Artery Disease,Referred,2,3,11.0,71998,Higher Risk,97.5
+1235,Aarav Malhotra,31,M,Kidney Infection,Deceased,0,3,8.0,51195,Higher Risk,97.5
+1195,Kritika Joshi,75,F,Asthma,Referred,1,3,12.0,48671,Higher Risk,97.5
+1056,Abhishek Kumar,77,M,Anemia,Referred,1,3,13.0,66393,Higher Risk,97.5
+1046,Arjun Mishra,62,M,Kidney Infection,Deceased,2,3,10.0,39385,Higher Risk,97.5
+1105,Shivani Rao,66,F,Migraine,Referred,1,3,8.0,23350,Higher Risk,97.5
+1070,Manish Das,56,M,Viral Fever,Deceased,2,3,13.0,25628,Higher Risk,97.0
+1140,Varun Iyer,60,M,Type 2 Diabetes,Referred,3,3,6.0,40203,Higher Risk,96.5
+1086,Ishita Menon,72,F,Coronary Artery Disease,Referred,3,3,10.0,64808,Higher Risk,96.5
+1114,Nikita Mishra,50,F,Gastritis,Deceased,0,3,4.0,21089,Higher Risk,96.5
+1017,Kunal Bansal,57,M,Asthma,Referred,3,3,4.0,15289,Higher Risk,96.0
+1157,Sneha Agarwal,75,F,Viral Fever,Deceased,2,3,14.0,41152,Higher Risk,96.0
+1220,Harsh Yadav,32,M,Migraine,Referred,1,3,13.0,54819,Higher Risk,96.0
+1063,Swati Thakur,69,F,Pneumonia,Deceased,1,3,3.0,35881,Higher Risk,95.5
+1234,Yash Mehta,22,M,Migraine,Referred,2,3,3.0,19837,Higher Risk,95.5
+1201,Simran Agarwal,41,F,Pneumonia,Referred,2,3,9.0,45144,Higher Risk,94.5
+1044,Vivek Patel,69,M,Kidney Infection,Recovered,2,3,14.0,55178,Higher Risk,66.5
+1130,Naveen Kapoor,60,M,Pneumonia,Stable,1,3,5.0,35524,Higher Risk,62.5

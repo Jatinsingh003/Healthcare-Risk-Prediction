@@ -1,0 +1,251 @@
+patient_id,name,age,gender,diagnosis_name,outcome_name,abnormal_lab_count,total_lab_tests,length_of_stay,treatment_cost,predicted_risk_label,risk_probability_percent
+1010,Ananya Patel,58,F,Asthma,Referred,3,3,7.0,31223,Higher Risk,99.5
+1022,Nitin Thakur,80,M,Asthma,Referred,2,3,12.0,55676,Higher Risk,99.5
+1242,Deepak Kumar,79,M,Pneumonia,Deceased,2,3,12.0,61666,Higher Risk,99.5
+1120,Tanvi Mehta,50,F,Gastritis,Referred,1,3,12.0,31388,Higher Risk,99.0
+1082,Neha Verma,55,F,Pneumonia,Referred,3,3,2.0,34931,Higher Risk,99.0
+1127,Sneha Kapoor,64,F,Type 2 Diabetes,Referred,2,3,9.0,40017,Higher Risk,98.5
+1174,Naveen Mishra,29,M,Asthma,Referred,1,3,6.0,26330,Higher Risk,98.5
+1181,Amit Bansal,26,M,Anemia,Deceased,1,3,13.0,56763,Higher Risk,98.0
+1053,Meera Patel,36,F,Hypertension,Deceased,3,3,4.0,31273,Higher Risk,98.0
+1073,Sneha Mishra,52,F,Kidney Infection,Referred,2,3,14.0,59510,Higher Risk,98.0
+1226,Riya Kapoor,53,F,Anemia,Referred,1,3,4.0,27493,Higher Risk,98.0
+1202,Amit Kumar,56,M,Pneumonia,Referred,3,3,6.0,41072,Higher Risk,98.0
+1250,Kavya Mehta,68,F,Anemia,Deceased,2,3,12.0,32262,Higher Risk,98.0
+1155,Amit Nair,42,M,Kidney Infection,Referred,3,3,12.0,43083,Higher Risk,97.5
+1083,Radhika Chauhan,61,F,Pneumonia,Referred,1,3,5.0,42214,Higher Risk,97.5
+1241,Pooja Saini,82,F,Coronary Artery Disease,Referred,2,3,11.0,71998,Higher Risk,97.5
+1235,Aarav Malhotra,31,M,Kidney Infection,Deceased,0,3,8.0,51195,Higher Risk,97.5
+1195,Kritika Joshi,75,F,Asthma,Referred,1,3,12.0,48671,Higher Risk,97.5
+1056,Abhishek Kumar,77,M,Anemia,Referred,1,3,13.0,66393,Higher Risk,97.5
+1046,Arjun Mishra,62,M,Kidney Infection,Deceased,2,3,10.0,39385,Higher Risk,97.5
+1105,Shivani Rao,66,F,Migraine,Referred,1,3,8.0,23350,Higher Risk,97.5
+1070,Manish Das,56,M,Viral Fever,Deceased,2,3,13.0,25628,Higher Risk,97.0
+1140,Varun Iyer,60,M,Type 2 Diabetes,Referred,3,3,6.0,40203,Higher Risk,96.5
+1086,Ishita Menon,72,F,Coronary Artery Disease,Referred,3,3,10.0,64808,Higher Risk,96.5
+1114,Nikita Mishra,50,F,Gastritis,Deceased,0,3,4.0,21089,Higher Risk,96.5
+1017,Kunal Bansal,57,M,Asthma,Referred,3,3,4.0,15289,Higher Risk,96.0
+1157,Sneha Agarwal,75,F,Viral Fever,Deceased,2,3,14.0,41152,Higher Risk,96.0
+1220,Harsh Yadav,32,M,Migraine,Referred,1,3,13.0,54819,Higher Risk,96.0
+1063,Swati Thakur,69,F,Pneumonia,Deceased,1,3,3.0,35881,Higher Risk,95.5
+1234,Yash Mehta,22,M,Migraine,Referred,2,3,3.0,19837,Higher Risk,95.5
+1201,Simran Agarwal,41,F,Pneumonia,Referred,2,3,9.0,45144,Higher Risk,94.5
+1044,Vivek Patel,69,M,Kidney Infection,Recovered,2,3,14.0,55178,Higher Risk,66.5
+1130,Naveen Kapoor,60,M,Pneumonia,Stable,1,3,5.0,35524,Higher Risk,62.5
+1206,Rahul Jain,55,M,Coronary Artery Disease,Stable,3,3,4.0,56388,Lower Risk,48.5
+1025,Karan Iyer,75,M,Pneumonia,Recovered,1,3,3.0,39332,Lower Risk,47.5
+1139,Naveen Gupta,29,M,Migraine,Stable,2,3,12.0,30841,Lower Risk,46.0
+1156,Sandeep Joshi,43,M,Pneumonia,Stable,2,3,13.0,46555,Lower Risk,45.0
+1208,Mohit Das,58,M,Kidney Infection,Stable,2,3,3.0,34028,Lower Risk,43.5
+1106,Mansi Singh,74,F,Type 2 Diabetes,Recovered,2,3,8.0,33178,Lower Risk,43.0
+1107,Vikram Rao,51,M,Kidney Infection,Recovered,2,3,11.0,54477,Lower Risk,42.5
+1161,Abhishek Singh,61,M,Type 2 Diabetes,Recovered,3,3,11.0,45650,Lower Risk,41.0
+1129,Pankaj Yadav,49,M,Pneumonia,Stable,3,3,2.0,34137,Lower Risk,40.0
+1124,Nikita Mishra,32,F,Pneumonia,Recovered,1,3,1.0,29668,Lower Risk,39.5
+1058,Kritika Agarwal,80,F,Asthma,Recovered,1,3,8.0,29380,Lower Risk,39.0
+1102,Sachin Gupta,53,M,Migraine,Improved,0,3,13.0,23547,Lower Risk,36.5
+1002,Neha Sharma,29,F,Asthma,Improved,1,3,9.0,41610,Lower Risk,36.0
+1197,Preeti Gupta,55,F,Coronary Artery Disease,Stable,3,3,12.0,71957,Lower Risk,36.0
+1229,Preeti Gupta,62,F,Gastritis,Improved,1,3,12.0,38606,Lower Risk,33.0
+1246,Sneha Menon,25,F,Anemia,Stable,3,3,11.0,28922,Lower Risk,33.0
+1216,Sandeep Singh,68,M,Kidney Infection,Referred,2,3,9.0,37240,Lower Risk,32.5
+1108,Tanya Jain,80,F,Anemia,Recovered,1,3,10.0,54956,Lower Risk,31.5
+1225,Abhishek Iyer,61,M,Anemia,Stable,1,3,11.0,41599,Lower Risk,31.5
+1141,Rajiv Arora,57,M,Kidney Infection,Improved,2,3,10.0,43209,Lower Risk,31.5
+1133,Rahul Chauhan,64,M,Anemia,Improved,3,3,8.0,41607,Lower Risk,31.5
+1060,Vikram Mishra,70,M,Kidney Infection,Recovered,3,3,7.0,43130,Lower Risk,31.5
+1184,Naveen Agarwal,77,M,Gastritis,Recovered,1,3,13.0,47764,Lower Risk,31.0
+1043,Sachin Rao,46,M,Asthma,Recovered,1,3,6.0,23118,Lower Risk,30.5
+1065,Sakshi Yadav,45,F,Gastritis,Stable,1,3,6.0,26291,Lower Risk,30.5
+1075,Riya Bansal,51,F,Kidney Infection,Stable,2,3,10.0,47363,Lower Risk,29.0
+1039,Manish Gupta,37,M,Anemia,Improved,2,3,14.0,61195,Lower Risk,29.0
+1192,Vikram Kapoor,64,M,Kidney Infection,Recovered,3,3,10.0,43342,Lower Risk,29.0
+1222,Simran Thakur,49,F,Hypertension,Recovered,2,3,4.0,22866,Lower Risk,28.5
+1076,Amit Patel,28,M,Asthma,Improved,2,3,8.0,31629,Lower Risk,28.0
+1126,Tarun Mishra,30,M,Gastritis,Recovered,0,3,5.0,22864,Lower Risk,28.0
+1171,Harsh Thakur,74,M,Gastritis,Improved,2,3,13.0,54609,Lower Risk,27.5
+1100,Naveen Singh,77,M,Type 2 Diabetes,Referred,3,3,8.0,38828,Lower Risk,27.5
+1219,Divya Yadav,82,F,Anemia,Stable,0,3,8.0,34806,Lower Risk,27.5
+1015,Muskan Agarwal,40,F,Anemia,Improved,2,3,14.0,62394,Lower Risk,27.0
+1211,Riya Agarwal,38,F,Gastritis,Improved,0,3,8.0,31278,Lower Risk,27.0
+1196,Sandeep Gupta,75,M,Pneumonia,Stable,2,3,2.0,35988,Lower Risk,27.0
+1072,Nisha Jain,76,F,Pneumonia,Stable,2,3,3.0,37463,Lower Risk,27.0
+1153,Tanvi Das,64,F,Type 2 Diabetes,Recovered,3,3,14.0,62100,Lower Risk,26.5
+1061,Sachin Agarwal,66,M,Gastritis,Recovered,1,3,6.0,31273,Lower Risk,26.5
+1001,Aarav Bhatia,53,M,Asthma,Stable,3,3,3.0,19511,Lower Risk,26.5
+1210,Sakshi Arora,71,F,Asthma,Recovered,2,3,14.0,64331,Lower Risk,26.0
+1103,Tanvi Menon,80,F,Pneumonia,Improved,2,3,9.0,53070,Lower Risk,25.5
+1111,Simran Kapoor,70,F,Viral Fever,Recovered,1,3,3.0,23221,Lower Risk,25.5
+1116,Varun Thakur,24,M,Viral Fever,Referred,2,3,14.0,44562,Lower Risk,25.5
+1236,Anjali Kumar,82,F,Gastritis,Stable,0,3,4.0,19047,Lower Risk,25.5
+1170,Kritika Bhatia,75,F,Asthma,Recovered,1,3,4.0,28389,Lower Risk,25.5
+1069,Rajiv Singh,21,M,Coronary Artery Disease,Referred,3,3,7.0,57206,Lower Risk,25.5
+1193,Nisha Bansal,74,F,Type 2 Diabetes,Improved,3,3,9.0,43204,Lower Risk,25.0
+1085,Deepak Singh,71,M,Viral Fever,Improved,3,3,13.0,52027,Lower Risk,25.0
+1042,Priya Mehta,60,F,Migraine,Recovered,1,3,5.0,16843,Lower Risk,24.5
+1151,Ananya Saini,23,F,Migraine,Referred,1,3,8.0,30072,Lower Risk,24.5
+1214,Shivani Bansal,69,F,Kidney Infection,Recovered,2,3,7.0,45601,Lower Risk,24.5
+1062,Komal Bhatia,46,F,Gastritis,Improved,0,3,5.0,17275,Lower Risk,24.5
+1080,Rajat Iyer,41,M,Asthma,Improved,1,3,12.0,58095,Lower Risk,24.5
+1207,Ananya Das,25,F,Pneumonia,Improved,3,3,7.0,42531,Lower Risk,24.0
+1059,Tanya Yadav,28,F,Pneumonia,Improved,1,3,4.0,38586,Lower Risk,23.5
+1109,Meera Bhatia,29,F,Migraine,Improved,0,3,13.0,30077,Lower Risk,23.5
+1238,Tanvi Mishra,59,F,Type 2 Diabetes,Recovered,3,3,11.0,38936,Lower Risk,23.0
+1088,Yash Chauhan,78,M,Coronary Artery Disease,Recovered,3,3,4.0,57690,Lower Risk,23.0
+1122,Abhishek Bansal,51,M,Viral Fever,Improved,3,3,14.0,43981,Lower Risk,23.0
+1057,Tanvi Iyer,75,F,Pneumonia,Recovered,1,3,8.0,50076,Lower Risk,23.0
+1228,Varun Thakur,66,M,Migraine,Stable,2,3,13.0,36901,Lower Risk,23.0
+1158,Ananya Rao,74,F,Coronary Artery Disease,Recovered,1,3,10.0,75887,Lower Risk,22.5
+1091,Sneha Singh,77,F,Coronary Artery Disease,Improved,2,3,5.0,62196,Lower Risk,22.0
+1101,Aditi Rao,78,F,Asthma,Recovered,3,3,9.0,31230,Lower Risk,22.0
+1245,Vivek Patel,80,M,Type 2 Diabetes,Stable,2,3,8.0,41036,Lower Risk,22.0
+1045,Swati Iyer,60,F,Hypertension,Recovered,2,3,5.0,21248,Lower Risk,22.0
+1005,Payal Verma,76,F,Anemia,Recovered,1,3,7.0,35094,Lower Risk,22.0
+1186,Neha Agarwal,42,F,Coronary Artery Disease,Stable,3,3,14.0,80564,Lower Risk,21.5
+1149,Pallavi Verma,18,F,Asthma,Stable,3,3,4.0,19855,Lower Risk,21.5
+1112,Pallavi Thakur,48,F,Gastritis,Improved,2,3,4.0,20224,Lower Risk,21.0
+1004,Sumit Yadav,31,M,Type 2 Diabetes,Improved,3,3,2.0,25661,Lower Risk,21.0
+1119,Tanya Bhatia,71,F,Pneumonia,Stable,3,3,3.0,37942,Lower Risk,21.0
+1146,Kritika Menon,28,F,Hypertension,Stable,3,3,3.0,19230,Lower Risk,20.5
+1198,Muskan Kapoor,33,F,Asthma,Stable,2,3,4.0,16684,Lower Risk,20.5
+1191,Nisha Nair,38,F,Hypertension,Improved,3,3,14.0,51701,Lower Risk,20.5
+1049,Swati Mishra,59,F,Migraine,Recovered,1,3,9.0,37245,Lower Risk,20.5
+1048,Ananya Thakur,60,F,Viral Fever,Stable,2,3,11.0,35884,Lower Risk,20.5
+1152,Divya Saini,71,F,Coronary Artery Disease,Recovered,2,3,7.0,61617,Lower Risk,20.5
+1125,Deepak Iyer,35,M,Migraine,Stable,1,3,6.0,29405,Lower Risk,20.5
+1026,Abhishek Iyer,30,M,Hypertension,Referred,1,3,2.0,15198,Lower Risk,20.0
+1054,Abhishek Mishra,42,M,Migraine,Recovered,1,3,7.0,21366,Lower Risk,19.5
+1021,Aarav Gupta,25,M,Asthma,Stable,1,3,1.0,14201,Lower Risk,19.5
+1016,Sandeep Bansal,38,M,Anemia,Improved,2,3,1.0,14860,Lower Risk,19.5
+1230,Sonia Iyer,52,F,Pneumonia,Stable,2,3,10.0,49286,Lower Risk,19.5
+1200,Kritika Mishra,27,F,Pneumonia,Recovered,2,3,11.0,65259,Lower Risk,19.0
+1078,Rajiv Thakur,65,M,Gastritis,Improved,1,3,6.0,30933,Lower Risk,19.0
+1104,Sneha Yadav,42,F,Asthma,Stable,1,3,4.0,20385,Lower Risk,19.0
+1027,Radhika Rao,45,F,Migraine,Improved,0,3,3.0,16069,Lower Risk,18.5
+1035,Pallavi Jain,19,F,Anemia,Recovered,2,3,11.0,32916,Lower Risk,18.5
+1093,Sumit Thakur,52,M,Viral Fever,Stable,3,3,13.0,49902,Lower Risk,18.5
+1008,Riya Thakur,52,F,Type 2 Diabetes,Stable,1,3,9.0,36107,Lower Risk,18.5
+1185,Riya Verma,43,F,Hypertension,Improved,1,3,5.0,30498,Lower Risk,18.5
+1244,Rohan Iyer,82,M,Asthma,Recovered,1,3,3.0,22112,Lower Risk,18.5
+1145,Rajat Nair,45,M,Migraine,Recovered,2,3,8.0,29772,Lower Risk,18.5
+1028,Ishita Mishra,80,F,Pneumonia,Recovered,3,3,5.0,37439,Lower Risk,18.5
+1121,Sandeep Agarwal,46,M,Migraine,Stable,1,3,2.0,10180,Lower Risk,18.0
+1071,Swati Bansal,26,F,Anemia,Stable,2,3,1.0,15571,Lower Risk,18.0
+1055,Sumit Mishra,46,M,Pneumonia,Recovered,1,3,8.0,50209,Lower Risk,18.0
+1232,Aarav Iyer,38,M,Migraine,Stable,1,3,8.0,27139,Lower Risk,18.0
+1223,Yash Das,44,M,Migraine,Improved,1,3,13.0,53353,Lower Risk,17.5
+1142,Meera Singh,62,F,Anemia,Stable,1,3,2.0,20454,Lower Risk,17.5
+1095,Aditi Yadav,59,F,Type 2 Diabetes,Improved,3,3,6.0,37235,Lower Risk,17.5
+1097,Mansi Nair,18,F,Anemia,Recovered,0,3,7.0,37724,Lower Risk,17.5
+1177,Sneha Arora,18,F,Type 2 Diabetes,Recovered,1,3,5.0,29055,Lower Risk,17.0
+1079,Preeti Chauhan,52,F,Coronary Artery Disease,Recovered,3,3,4.0,53036,Lower Risk,17.0
+1173,Akash Nair,33,M,Coronary Artery Disease,Recovered,2,3,13.0,89436,Lower Risk,17.0
+1115,Gaurav Menon,63,M,Viral Fever,Recovered,3,3,12.0,41100,Lower Risk,16.5
+1137,Yash Chauhan,47,M,Migraine,Improved,1,3,14.0,52118,Lower Risk,16.5
+1215,Komal Malhotra,27,F,Migraine,Stable,1,3,8.0,31020,Lower Risk,16.5
+1240,Divya Bhatia,19,F,Coronary Artery Disease,Recovered,2,3,12.0,66520,Lower Risk,16.0
+1243,Kritika Iyer,45,F,Asthma,Improved,3,3,9.0,33268,Lower Risk,16.0
+1164,Shivani Thakur,37,F,Kidney Infection,Stable,2,3,10.0,48361,Lower Risk,16.0
+1024,Sneha Bhatia,24,F,Type 2 Diabetes,Stable,3,3,7.0,29065,Lower Risk,16.0
+1014,Vivek Iyer,52,M,Kidney Infection,Improved,3,3,5.0,34816,Lower Risk,16.0
+1163,Pankaj Jain,60,M,Type 2 Diabetes,Improved,2,3,2.0,23393,Lower Risk,15.5
+1011,Simran Kapoor,51,F,Viral Fever,Improved,2,3,10.0,27113,Lower Risk,15.5
+1041,Harsh Agarwal,70,M,Viral Fever,Stable,2,3,4.0,19920,Lower Risk,15.5
+1007,Sachin Singh,66,M,Coronary Artery Disease,Stable,3,3,11.0,66058,Lower Risk,15.5
+1221,Shreya Jain,47,F,Hypertension,Improved,2,3,3.0,27059,Lower Risk,14.5
+1087,Ankit Patel,51,M,Type 2 Diabetes,Recovered,2,3,4.0,22810,Lower Risk,14.5
+1066,Shreya Gupta,78,F,Hypertension,Recovered,3,3,6.0,24785,Lower Risk,14.5
+1067,Sumit Sharma,49,M,Asthma,Recovered,2,3,10.0,29549,Lower Risk,14.5
+1227,Preeti Patel,80,F,Kidney Infection,Improved,2,3,6.0,35777,Lower Risk,14.5
+1169,Rajat Chauhan,23,M,Migraine,Stable,2,3,11.0,43710,Lower Risk,14.5
+1099,Kavya Sharma,48,F,Pneumonia,Recovered,1,3,9.0,52102,Lower Risk,14.5
+1117,Arjun Bansal,46,M,Asthma,Stable,1,3,11.0,33006,Lower Risk,14.0
+1052,Vivek Gupta,54,M,Anemia,Stable,2,3,2.0,21335,Lower Risk,13.5
+1018,Tanvi Gupta,34,F,Pneumonia,Recovered,2,3,9.0,62895,Lower Risk,13.0
+1040,Simran Verma,57,F,Kidney Infection,Recovered,3,3,6.0,38295,Lower Risk,13.0
+1038,Mohit Agarwal,34,M,Coronary Artery Disease,Improved,2,3,12.0,82506,Lower Risk,13.0
+1033,Sonia Agarwal,27,F,Hypertension,Deceased,2,3,10.0,26190,Lower Risk,13.0
+1203,Mansi Gupta,50,F,Asthma,Improved,1,3,3.0,24018,Lower Risk,13.0
+1147,Nitin Chauhan,72,M,Gastritis,Recovered,2,3,7.0,31518,Lower Risk,13.0
+1154,Muskan Gupta,68,F,Coronary Artery Disease,Recovered,2,3,4.0,50677,Lower Risk,13.0
+1162,Sneha Nair,38,F,Kidney Infection,Improved,3,3,5.0,37986,Lower Risk,12.5
+1136,Sakshi Arora,55,F,Gastritis,Improved,2,3,10.0,31166,Lower Risk,12.5
+1098,Nikita Chauhan,24,F,Asthma,Recovered,2,3,9.0,33500,Lower Risk,12.0
+1138,Mohit Mishra,58,M,Coronary Artery Disease,Stable,0,3,3.0,52475,Lower Risk,12.0
+1249,Nisha Saini,75,F,Migraine,Stable,2,3,2.0,13405,Lower Risk,12.0
+1224,Akash Kumar,44,M,Anemia,Improved,2,3,11.0,44243,Lower Risk,12.0
+1248,Kunal Gupta,78,M,Hypertension,Recovered,2,3,7.0,28051,Lower Risk,12.0
+1231,Vivek Nair,46,M,Asthma,Improved,1,3,2.0,15591,Lower Risk,11.5
+1166,Ankit Thakur,72,M,Anemia,Improved,1,3,1.0,15192,Lower Risk,11.5
+1074,Meera Agarwal,77,F,Viral Fever,Recovered,2,3,6.0,21675,Lower Risk,11.5
+1090,Kunal Joshi,36,M,Type 2 Diabetes,Stable,3,3,3.0,32546,Lower Risk,11.5
+1051,Riya Mishra,59,F,Gastritis,Stable,3,3,8.0,37720,Lower Risk,11.5
+1009,Shreya Jain,46,F,Kidney Infection,Stable,2,3,4.0,32754,Lower Risk,11.5
+1020,Kavya Kapoor,46,F,Type 2 Diabetes,Improved,2,3,1.0,22462,Lower Risk,11.5
+1019,Riya Iyer,43,F,Coronary Artery Disease,Improved,2,3,11.0,82803,Lower Risk,11.5
+1068,Varun Patel,77,M,Coronary Artery Disease,Improved,2,3,3.0,53878,Lower Risk,11.0
+1118,Tarun Jain,23,M,Coronary Artery Disease,Improved,1,3,1.0,44976,Lower Risk,11.0
+1160,Sneha Menon,23,F,Gastritis,Improved,1,3,6.0,28253,Lower Risk,11.0
+1029,Rajat Yadav,25,M,Hypertension,Referred,2,3,9.0,41164,Lower Risk,11.0
+1150,Kavya Sharma,81,F,Migraine,Improved,1,3,3.0,16024,Lower Risk,10.5
+1182,Mansi Rao,23,F,Migraine,Stable,2,3,5.0,25269,Lower Risk,10.5
+1064,Divya Menon,21,F,Type 2 Diabetes,Stable,1,3,3.0,21743,Lower Risk,10.5
+1167,Kritika Rao,42,F,Asthma,Recovered,1,3,3.0,17500,Lower Risk,10.5
+1131,Payal Mehta,32,F,Hypertension,Improved,3,3,1.0,16497,Lower Risk,10.0
+1092,Arjun Verma,73,M,Kidney Infection,Recovered,2,3,1.0,27865,Lower Risk,10.0
+1188,Nisha Nair,52,F,Type 2 Diabetes,Improved,3,3,2.0,23846,Lower Risk,10.0
+1128,Shreya Patel,33,F,Gastritis,Recovered,1,3,11.0,47769,Lower Risk,10.0
+1194,Meera Singh,21,F,Pneumonia,Improved,2,3,9.0,57964,Lower Risk,9.5
+1034,Amit Joshi,34,M,Kidney Infection,Improved,3,3,4.0,30473,Lower Risk,9.5
+1110,Akash Malhotra,21,M,Hypertension,Recovered,2,3,13.0,47254,Lower Risk,9.5
+1179,Ananya Singh,81,F,Viral Fever,Improved,2,3,1.0,10536,Lower Risk,9.5
+1081,Kavya Patel,55,F,Asthma,Recovered,2,3,3.0,19697,Lower Risk,9.5
+1189,Tanya Singh,28,F,Kidney Infection,Improved,3,3,5.0,35590,Lower Risk,9.0
+1175,Muskan Bansal,48,F,Migraine,Recovered,2,3,6.0,21341,Lower Risk,9.0
+1135,Ananya Gupta,59,F,Viral Fever,Recovered,3,3,2.0,17700,Lower Risk,9.0
+1013,Gaurav Saini,77,M,Anemia,Stable,0,3,9.0,28295,Lower Risk,8.5
+1036,Tarun Singh,37,M,Coronary Artery Disease,Recovered,3,3,10.0,70207,Lower Risk,8.5
+1237,Nikita Joshi,41,F,Hypertension,Recovered,3,3,13.0,36820,Lower Risk,8.5
+1178,Kavya Agarwal,54,F,Asthma,Recovered,2,3,2.0,19572,Lower Risk,8.5
+1209,Mohit Kapoor,77,M,Type 2 Diabetes,Recovered,3,3,8.0,28682,Lower Risk,8.5
+1187,Pankaj Bansal,73,M,Migraine,Recovered,2,3,7.0,23319,Lower Risk,8.5
+1023,Meera Rao,70,F,Asthma,Stable,2,3,2.0,17271,Lower Risk,8.5
+1089,Ananya Thakur,47,F,Coronary Artery Disease,Recovered,1,3,7.0,62645,Lower Risk,8.5
+1172,Naveen Patel,35,M,Coronary Artery Disease,Improved,3,3,11.0,76962,Lower Risk,8.0
+1199,Sneha Iyer,34,F,Viral Fever,Recovered,1,3,2.0,15626,Lower Risk,8.0
+1123,Rahul Sharma,59,M,Viral Fever,Recovered,3,3,11.0,46560,Lower Risk,8.0
+1030,Amit Gupta,41,M,Type 2 Diabetes,Stable,3,3,11.0,47865,Lower Risk,8.0
+1047,Nitin Verma,73,M,Hypertension,Improved,2,3,13.0,38574,Lower Risk,7.5
+1165,Simran Arora,28,F,Coronary Artery Disease,Stable,2,3,11.0,66942,Lower Risk,7.5
+1217,Muskan Verma,23,F,Hypertension,Recovered,1,3,12.0,51434,Lower Risk,7.5
+1212,Vikram Saini,82,M,Gastritis,Improved,1,3,4.0,13510,Lower Risk,7.5
+1031,Varun Arora,23,M,Viral Fever,Stable,3,3,7.0,33887,Lower Risk,7.0
+1032,Sonia Joshi,44,F,Kidney Infection,Improved,3,3,5.0,35385,Lower Risk,7.0
+1205,Naveen Sharma,28,M,Hypertension,Recovered,2,3,11.0,51885,Lower Risk,7.0
+1077,Nikita Das,80,F,Gastritis,Recovered,1,3,2.0,18879,Lower Risk,7.0
+1176,Payal Kumar,35,F,Hypertension,Improved,1,3,14.0,40468,Lower Risk,7.0
+1148,Aditi Singh,54,F,Viral Fever,Stable,3,3,9.0,19280,Lower Risk,7.0
+1006,Divya Patel,26,F,Hypertension,Recovered,2,3,13.0,36344,Lower Risk,6.5
+1247,Tanvi Sharma,45,F,Viral Fever,Improved,1,3,1.0,10894,Lower Risk,6.5
+1213,Radhika Arora,78,F,Coronary Artery Disease,Stable,2,3,1.0,46562,Lower Risk,6.5
+1218,Simran Arora,35,F,Kidney Infection,Improved,2,3,3.0,36731,Lower Risk,6.5
+1132,Priya Mehta,51,F,Hypertension,Improved,2,3,12.0,35588,Lower Risk,6.5
+1168,Vivek Yadav,34,M,Viral Fever,Recovered,3,3,3.0,22901,Lower Risk,6.5
+1096,Tanvi Agarwal,22,F,Gastritis,Recovered,2,3,6.0,23872,Lower Risk,6.5
+1113,Swati Sharma,77,F,Coronary Artery Disease,Improved,2,3,2.0,52543,Lower Risk,6.0
+1239,Sonia Kapoor,18,F,Coronary Artery Disease,Improved,1,3,4.0,54372,Lower Risk,6.0
+1204,Amit Jain,39,M,Viral Fever,Stable,2,3,3.0,18799,Lower Risk,5.5
+1050,Swati Bhatia,40,F,Viral Fever,Improved,2,3,7.0,15896,Lower Risk,5.0
+1094,Sonia Joshi,41,F,Viral Fever,Stable,3,3,11.0,26153,Lower Risk,5.0
+1180,Rajiv Mishra,18,M,Viral Fever,Improved,3,3,4.0,18310,Lower Risk,4.5
+1144,Priya Mehta,36,F,Viral Fever,Recovered,2,3,2.0,12837,Lower Risk,4.5
+1037,Muskan Rao,50,F,Hypertension,Improved,2,3,11.0,35524,Lower Risk,4.5
+1003,Meera Chauhan,53,F,Hypertension,Improved,1,3,12.0,38829,Lower Risk,4.0
+1233,Nikita Verma,29,F,Viral Fever,Stable,3,3,9.0,24649,Lower Risk,3.5
+1084,Gaurav Rao,27,M,Viral Fever,Recovered,2,3,3.0,18004,Lower Risk,3.5
+1143,Mansi Iyer,21,F,Viral Fever,Recovered,2,3,1.0,10248,Lower Risk,3.5
+1159,Sneha Chauhan,22,F,Hypertension,Recovered,1,3,14.0,36504,Lower Risk,3.5
+1183,Harsh Kapoor,31,M,Viral Fever,Recovered,3,3,3.0,18081,Lower Risk,3.5
+1012,Ananya Agarwal,24,F,Type 2 Diabetes,Recovered,3,3,11.0,52604,Lower Risk,3.0
+1134,Sneha Jain,21,F,Hypertension,Improved,2,3,14.0,36504,Lower Risk,3.0
+1190,Nisha Chauhan,23,F,Kidney Infection,Improved,3,3,5.0,27284,Lower Risk,3.0
